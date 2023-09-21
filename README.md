@@ -43,13 +43,9 @@
 <li style="margin-bottom: 10px;">Completed projects on time and budget for clients worldwide</li>
 </ul>
 
-<h3 style="font-size: 18px;color: #000;">Volunteer Work @ Quantum Foundation (2012 - 2015)</h3>
+<h3 style="font-size: 18px;color: #000;">Volunteer Work @ Quantum Foundation (2012 - 2015)</h3> 
 
-<ul>
-<li style="margin-bottom: 10px;">Organized technology seminars and computer literacy camps</li> 
-<li style="margin-bottom: 10px;">Provided IT support for various events and campaigns</li>
-<li style="margin-bottom: 10px;">Assisted with setup of computer labs at 5 local schools</li>
-</ul>
+<ul> <li style="margin-bottom: 10px;">Completed Quantum Method course and volunteered for 3 years at various camps in Mirpur</li> <li style="margin-bottom: 10px;">Organized blood donation drives, charity events, and family support programs</li> </ul>
 
 <h2 style="color: #1e90ff;font-size: 24px;">Education</h2>
 
