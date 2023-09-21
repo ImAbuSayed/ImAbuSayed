@@ -15,7 +15,7 @@
 <h2 style="color: #1e90ff;font-size: 24px;">Core Skills</h2>
 
 <ul>
-<li style="margin-bottom: 10px;">Programming: Python, PHP, JavaScript, C++</li>
+<li style="margin-bottom: 10px;">Programming: Python, PHP, JavaScript</li>
 <li style="margin-bottom: 10px;">Web Development: Laravel, WordPress</li>  
 <li style="margin-bottom: 10px;">Databases: MySQL</li>
 <li style="margin-bottom: 10px;">OS & Tools: Linux, Windows Server, Docker, cPanel, Webmin, Kubernetes</li>
