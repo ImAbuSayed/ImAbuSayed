@@ -84,7 +84,7 @@ Govt Science College, Dhaka<br>
 <ul>
 <li style="margin-bottom: 10px;">Date of Birth: 26th December 1998</li>
 <li style="margin-bottom: 10px;">Languages: English (Fluent), Bangla (Native)</li>
-<li style="margin-bottom: 10px;">Interests: Technology, reading, travel, gaming</li>
+<li style="margin-bottom: 10px;">Interests: Technology, research, listening podcasts/songs, gaming</li>
 </ul>
 
 </body>
