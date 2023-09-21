@@ -2,7 +2,7 @@
 
 <h1 style="color: #1e90ff;font-size: 32px;animation: slideDown 0.8s ease-in-out;">Abu Sayed</h1>
 
-<h2 style="color: #1e90ff;font-size: 24px;">IT Professional | Web Developer | Systems Administrator</h2>
+<h2 style="color: #1e90ff;font-size: 24px;">IT Professional | DevOps Engineer | Systems Administrator</h2>
 
 <p style="line-height: 1.5;">Dhaka, Bangladesh</p>
 
@@ -10,7 +10,7 @@
 
 <h2 style="color: #1e90ff;font-size: 24px;">Career Objective</h2>  
 
-<p style="line-height: 1.5;">Ambitious IT professional with expertise in web development, systems administration, and computer networking. Able to manage complex technical projects from concept to completion. Seeking to utilize skills to help companies implement efficient technology solutions.</p>
+<p style="line-height: 1.5;">Ambitious IT professional with expertise in web development, systems administration, computer networking, DevOps methodologies and tools. Able to manage complex technical projects from concept to completion. Seeking to utilize skills to help companies implement efficient technology solutions.</p>
 
 <h2 style="color: #1e90ff;font-size: 24px;">Core Skills</h2>
 
