@@ -1,125 +1,94 @@
-## Hey 👋, I'm Freelancer [Abu Sayed!](https://Sayed.CYou)
+<body style="font-family: Arial, sans-serif;background-color: #f2f2f2;">
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/imabusayed)
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://Sayed.cYou)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/HireAbuSayed)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/imsayed__/)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/imabusayed)
+<h1 style="color: #1e90ff;font-size: 32px;animation: slideDown 0.8s ease-in-out;">Abu Sayed</h1>
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=iampavangandhi.iampavangandhi&style=flat-square&color=0088cc)
+<h2 style="color: #1e90ff;font-size: 24px;">IT Professional | Web Developer | Systems Administrator</h2>
 
-I'm a final year student pursuing Bachelors's in Computer Science and Engineering  🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Game, App, & Web Devlopment 🕸️ and working on my Data Structures and Algorithms 🤓.
+<p style="line-height: 1.5;">Dhaka, Bangladesh</p>
 
-[![](https://gitwar.herokuapp.com/badge?username=imabusayed&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitwar.herokuapp.com/)
+<p style="line-height: 1.5;">Phone: +8801925785462 | Email: <a href="mailto:abusayedofficialbd@gmail.com" style="color: #1e90ff;text-decoration: none;">abusayedofficialbd@gmail.com</a> | <a href="https://sleekbio.com/abu-sayed" style="color: #1e90ff;text-decoration: none;">Website</a> | <a href="https://bd.linkedin.com/in/imabusayed" target="_blank" style="color: #1e90ff;text-decoration: none;">LinkedIn</a></p>
 
-<img align="right" height="250" width="375" alt="" src="https://github.com/ImAbuSayed/ImAbuSayed/raw/main/coder.gif" />
+<h2 style="color: #1e90ff;font-size: 24px;">Career Objective</h2>  
 
-### Talking about Personal Stuffs:
+<p style="line-height: 1.5;">Ambitious IT professional with expertise in web development, systems administration, and computer networking. Able to manage complex technical projects from concept to completion. Seeking to utilize skills to help companies implement efficient technology solutions.</p>
 
-- 🛠 &nbsp; I’m currently working with Nodejs, Express, React, <br /> Graphql, Mongodb, Javascript, etc.
-- 🚀 &nbsp; I’m currently learning Full Stack Development.
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/imabusayed).
-- 💬 &nbsp; Ask me about anything [here](https://github.com/imabusayed/imabsuayed/issues/2)! I am happy to help.
-- 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
-- 📫 &nbsp; How to reach me: imabsuayed@hotmail.com
-- 📝 &nbsp; Checkout my [Resume](https://github.com/imabusayed).
+<h2 style="color: #1e90ff;font-size: 24px;">Core Skills</h2>
 
-### My Absolute Favorites:
+<ul>
+<li style="margin-bottom: 10px;">Programming: Python, PHP, JavaScript, C++</li>
+<li style="margin-bottom: 10px;">Web Development: Laravel, CodeIgniter, WordPress, React</li>  
+<li style="margin-bottom: 10px;">Databases: MySQL, MongoDB</li>
+<li style="margin-bottom: 10px;">OS & Tools: Linux, Windows Server, Docker, cPanel, Webmin</li>
+<li style="margin-bottom: 10px;">Networking: Cisco CCNA, MikroTik</li>
+</ul>
 
-- 💻 &nbsp; I love exploring new tech stack and building cool stuffs
-- 📰 &nbsp; Reading & writing tech blogs whenever possible
-- 🍕 &nbsp; Hackathons, meetups & tech events
+<h2 style="color: #1e90ff;font-size: 24px;">Professional Experience</h2>
 
-### Languages and Tools:
+<h3 style="font-size: 18px;color: #000;">Systems Administrator & Web Developer @ Ai Blogify (Jan 2023 - Present)</h3>
 
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="cpp"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs"></code>
-<code><img height="27" src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original.svg" alt="expressjs"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" alt="graphql"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="sql"></code>
-<code><img height="27" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSTTzPAw-55ssm1Im594xYZ9eRQu2JylrkYLg&usqp=CAU" alt="mongodb"></code>
-<code><img height="27" src="https://devicons.github.io/devicon/devicon.git/icons/git/git-original.svg" alt="git"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
+<ul>
+<li style="margin-bottom: 10px;">Manage VPS servers, firewalls, web stack, DNS, scaling</li>
+<li style="margin-bottom: 10px;">Develop and maintain custom SAAS products and internal apps</li>
+<li style="margin-bottom: 10px;">Optimize sites for maximum speed and security</li>
+<li style="margin-bottom: 10px;">Implement SEO strategies and integrate analytics</li> 
+<li style="margin-bottom: 10px;">Author technical documentation and admin guides</li>
+</ul>
 
-<!--
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="sass"></code>
--->
+<h3 style="font-size: 18px;color: #000;">Freelance Web Developer (2019 - 2022)</h3>
 
-### Projects and Dev Stuffs:
+<ul>  
+<li style="margin-bottom: 10px;">Designed and developed 50+ custom WordPress sites</li>
+<li style="margin-bottom: 10px;">Built secure e-commerce platforms using PHP, MySQL</li>
+<li style="margin-bottom: 10px;">Provided web hosting, maintenance, and security updates</li>
+<li style="margin-bottom: 10px;">Completed projects on time and budget for clients worldwide</li>
+</ul>
 
-<details>	
-  <summary><b>⚡ Github Stats</b></summary>
+<h3 style="font-size: 18px;color: #000;">Volunteer Work @ Quantum Foundation (2012 - 2015)</h3>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=imabusayed&show_icons=true&hide_border=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imabusayed&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-</details>
+<ul>
+<li style="margin-bottom: 10px;">Organized technology seminars and computer literacy camps</li> 
+<li style="margin-bottom: 10px;">Provided IT support for various events and campaigns</li>
+<li style="margin-bottom: 10px;">Assisted with setup of computer labs at 5 local schools</li>
+</ul>
 
-<details>
-  <summary><b>🧑‍🚀 Open Source Projects</b></summary>
+<h2 style="color: #1e90ff;font-size: 24px;">Education</h2>
 
-  <br />
-  <table>
-    <thead align="center">
-      <tr border: none;>
-        <td><b>💻 Projects</b></td>
-        <td><b>🌟 Stars</b></td>
-        <td><b>🍴 Forks</b></td>
-        <td><b>🐛 Issues</b></td>
-        <td><b>🔔 Pull Requests</b></td>
-        <td><b>👨‍💻 Language</b></td>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-	      <td><a href="https://github.com/imabusayed/Gitwar"><b>🚀 Gitwar</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/imabusayed/Gitwar?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/imabusayed/Gitwar?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/imabusayed/Gitwar?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/imabusayed/Gitwar?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/imabusayed/Gitwar?style=flat-square"/></td>
-      </tr>
-      <tr>
-	      <td><a href="https://github.com/imabusayed/TradeByte"><b>💸 TradeByte</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/imabusayed/TradeByte?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/imabusayed/TradeByte?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/imabusayed/TradeByte?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/imabusayed/TradeByte?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/imabusayed/TradeByte?label=javascript&style=flat-square"/></td>
-      </tr>
-      <tr>
-	      <td><a href="https://github.com/imabusayed/TheNodeCourse"><b>👨🏻‍💻 TheNodeCourse</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/imabusayed/TheNodeCourse?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/imabusayed/TheNodeCourse?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/imabusayed/TheNodeCourse?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/imabusayed/TheNodeCourse?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/imabusayed/TheNodeCourse?style=flat-square"/></td> 
-      </tr>
-    </tbody>
-  </table>
-  <br />
-</details>
- 
-<details>	
-  <br />
-  <summary><b>⚙️ Things I use to get stuff done</b></summary>
-  	<ul>
-  	    <li><b>OS:</b> Ubuntu 20.04</li>
-	    <li><b>PC: </b> Ryzen 7 1700 | RX 580 8GB | RAM 16GB</li>
-  	    <li><b>Browser: </b> Firefox Developer Edition</li>
-	    <li><b>Code Editor:</b> VSCode - The best editor out there</li>
-	    <li><b>To Stay Updated:</b> Dev.to, Medium and Twitter</li>
-	    <br />
-	⚛️ Checkout My VSCode Configrations <a href="https://gist.github.com/iamabusayed/">Here</a>.
-	</ul>	
-</details>
+<div class="edu" style="background-color: #e6f2ff;padding: 20px;border-radius: 10px;">
 
-#
+<p style="line-height: 1.5;"><b>B.Sc in Computer Science & Engineering (CSE)</b><br>
+Bangladesh Institute of Science and Technology, Dhaka<br> 
+<i>Currently in final semester, expected completion in 2023</i></p>
 
-<div align="center">
+<p style="line-height: 1.5;"><b>Higher Secondary School Certificate (HSC)</b><br>  
+Govt. Bangla College, Dhaka<br>
+<i>2016</i></p>
 
-### Show some ❤️ by starring some of the repositories!
+<p style="line-height: 1.5;"><b>Secondary School Certificate (SSC)</b><br>
+Govt Science College, Dhaka<br>
+<i>2014</i></p>
 
 </div>
+
+<h2 style="color: #1e90ff;font-size: 24px;">Certifications</h2>
+
+<ul>
+<li style="margin-bottom: 10px;">Cisco Certified Network Associate (CCNA) Training - In Progress</li>
+<li style="margin-bottom: 10px;">MikroTik Configuration Training - In Progress</li>
+<li style="margin-bottom: 10px;">DevOps Training - In Progress</li>
+<li style="margin-bottom: 10px;">Server Administration Including Windows Server Management Training - In Progress</li>
+<li style="margin-bottom: 10px;">Professional English Communication</li>
+<li style="margin-bottom: 10px;">Fundamental Analysis of Stock Market Companies</li>
+<li style="margin-bottom: 10px;">Google Python Automation</li> 
+<li style="margin-bottom: 10px;">BYLCx Effective Teamwork</li>
+<li style="margin-bottom: 10px;">BYLCx Public Speaking</li>  
+</ul>
+
+<h2 style="color: #1e90ff;font-size: 24px;">Personal Details</h2>
+
+<ul>
+<li style="margin-bottom: 10px;">Date of Birth: 26th December 1998</li>
+<li style="margin-bottom: 10px;">Languages: English (Fluent), Bangla (Native)</li>
+<li style="margin-bottom: 10px;">Interests: Technology, reading, travel, gaming</li>
+</ul>
+
+</body>
