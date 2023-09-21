@@ -16,10 +16,11 @@
 
 <ul>
 <li style="margin-bottom: 10px;">Programming: Python, PHP, JavaScript, C++</li>
-<li style="margin-bottom: 10px;">Web Development: Laravel, CodeIgniter, WordPress, React</li>  
-<li style="margin-bottom: 10px;">Databases: MySQL, MongoDB</li>
-<li style="margin-bottom: 10px;">OS & Tools: Linux, Windows Server, Docker, cPanel, Webmin</li>
+<li style="margin-bottom: 10px;">Web Development: Laravel, WordPress</li>  
+<li style="margin-bottom: 10px;">Databases: MySQL</li>
+<li style="margin-bottom: 10px;">OS & Tools: Linux, Windows Server, Docker, cPanel, Webmin, Kubernetes</li>
 <li style="margin-bottom: 10px;">Networking: Cisco CCNA, MikroTik</li>
+<li style="margin-bottom: 10px;">DevOps: Jenkins, Ansible, Terraform, ELK Stack</li>
 </ul>
 
 <h2 style="color: #1e90ff;font-size: 24px;">Professional Experience</h2>
