@@ -61,7 +61,7 @@ Govt. Bangla College, Dhaka<br>
 <i>2016</i></p>
 
 <p style="line-height: 1.5;"><b>Secondary School Certificate (SSC)</b><br>
-Govt Science College, Dhaka<br>
+Govt Science College Attached High School, Dhaka<br>
 <i>2014</i></p>
 
 </div>
