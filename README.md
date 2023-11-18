@@ -69,10 +69,10 @@ Govt Science College Attached High School, Dhaka<br>
 <h2 style="color: #1e90ff;font-size: 24px;">Certifications</h2>
 
 <ul>
-<li style="margin-bottom: 10px;">PeopleNTech • Cisco Certified Network Associate (CCNA) Training - In Progress</li>
-<li style="margin-bottom: 10px;">PeopleNTech • MikroTik Configuration Training - In Progress</li>
+<li style="margin-bottom: 10px;">PeopleNTech • Cisco Certified Network Associate (CCNA) Training</li>
+<li style="margin-bottom: 10px;">PeopleNTech • MikroTik Configuration Training</li>
 <li style="margin-bottom: 10px;">Interactive Care • DevOps Training - In Progress</li>
-<li style="margin-bottom: 10px;">BASIS • Server Administration Including Windows Server Management Training - In Progress</li>
+<li style="margin-bottom: 10px;">BASIS • Server Administration Including Windows Server Management Training</li>
 <li style="margin-bottom: 10px;">WSDA Bangladesh Ltd. • Professional English Communication</li>
 <li style="margin-bottom: 10px;">Royale Capital LTD. • Fundamental Analysis of Stock Market Companies</li>
 <li style="margin-bottom: 10px;">Google • Python Automation</li> 
