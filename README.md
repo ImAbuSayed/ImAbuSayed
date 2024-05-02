@@ -2,7 +2,7 @@
 
 <h1 style="color: #1e90ff;font-size: 32px;animation: slideDown 0.8s ease-in-out;">Abu Sayed</h1>
 
-<h2 style="color: #1e90ff;font-size: 24px;">IT Professional | DevOps Engineer | Systems Administrator</h2>
+<h2 style="color: #1e90ff;font-size: 24px;">IT Professional | DevOps Engineer | Systems Administrator | Backend Developer</h2>
 
 <p style="line-height: 1.5;">Dhaka, Bangladesh</p>
 
@@ -25,7 +25,20 @@
 
 <h2 style="color: #1e90ff;font-size: 24px;">Professional Experience</h2>
 
-<h3 style="font-size: 18px;color: #000;">Systems Administrator & Web Developer @ Ai Blogify (Jan 2023 - Present)</h3>
+<h3 style="font-size: 18px;color: #000;">Backend Developer @ Aesthetic Code Lab (May 2024 - Present)</h3>
+
+<ul>
+<li style="margin-bottom: 10px;">Developed and maintained high-performance, reusable, and reliable code for web applications using ReactJS and Laravel framework.</li>
+<li style="margin-bottom: 10px;">Designed, coded, tested, and implemented software according to design specifications, following standard coding styles and practices.</li>
+<li style="margin-bottom: 10px;">Utilized strong knowledge of PHP, MySQL, JavaScript, CSS, HTML, and front-end languages to build and improve web applications.</li>
+<li style="margin-bottom: 10px;">Integrated third-party services and APIs to fulfill customer requirements.</li> 
+<li style="margin-bottom: 10px;">Contributed to the development of audio, video calling systems, and live streaming features.</li>
+  <li style="margin-bottom: 10px;">Worked with cloud-based infrastructure and platform services.</li>
+  <li style="margin-bottom: 10px;">Maintained documentation on SDLC and application requirements.</li>
+  <li style="margin-bottom: 10px;">Employed development environment tools and techniques like Git and CI/CD.</li>
+</ul>
+
+<h3 style="font-size: 18px;color: #000;">Systems Administrator & Web Developer @ Ai Blogify (Jan 2023 - Feb 2024)</h3>
 
 <ul>
 <li style="margin-bottom: 10px;">Manage VPS servers, firewalls, web stack, DNS, scaling</li>
@@ -34,6 +47,8 @@
 <li style="margin-bottom: 10px;">Implement SEO strategies and integrate analytics</li> 
 <li style="margin-bottom: 10px;">Author technical documentation and admin guides</li>
 </ul>
+
+<p><b>Ref.:</b> <a href="https://cutt.ly/Aw6kqQUP" target="_blank" style="color: #1e90ff;text-decoration: none;">Ai Blogify</a>, <a href="https://cutt.ly/Nw6keYUw" target="_blank" style="color: #1e90ff;text-decoration: none;">Ai Blogify CPA Marketing Tools</a>, <a href="https://cutt.ly/kw6krwOL" target="_blank" style="color: #1e90ff;text-decoration: none;">Prompts Mega Collection</a>, <a href="https://cutt.ly/2w6ktwAq" target="_blank" style="color: #1e90ff;text-decoration: none;">AI SEO Tools</a>.</p>
 
 <h3 style="font-size: 18px;color: #000;">Freelance Web Developer (2019 - 2022)</h3>
 
