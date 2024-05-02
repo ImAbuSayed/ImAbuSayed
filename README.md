@@ -6,7 +6,7 @@
 
 <p style="line-height: 1.5;">Dhaka, Bangladesh</p>
 
-<p style="line-height: 1.5;">Phone: +8801925785462 | Email: <a href="mailto:abusayedofficialbd@gmail.com" style="color: #1e90ff;text-decoration: none;">abusayedofficialbd@gmail.com</a> | <a href="https://sleekbio.com/abu-sayed" style="color: #1e90ff;text-decoration: none;">Website</a> | <a href="https://bd.linkedin.com/in/imabusayed" target="_blank" style="color: #1e90ff;text-decoration: none;">LinkedIn</a></p>
+<p style="line-height: 1.5;">Phone: +8801925785462 | Email: <a href="mailto:abusayedofficialbd@gmail.com" style="color: #1e90ff;text-decoration: none;">abusayedofficialbd@gmail.com</a> | <a href="https://abu-sayed.medium.com/" style="color: #1e90ff;text-decoration: none;">Website</a> | <a href="https://bd.linkedin.com/in/imabusayed" target="_blank" style="color: #1e90ff;text-decoration: none;">LinkedIn</a></p>
 
 <h2 style="color: #1e90ff;font-size: 24px;">Career Objective</h2>  
 
