@@ -87,8 +87,8 @@ Govt Science College Attached High School, Dhaka<br>
 <li style="margin-bottom: 10px;">PeopleNTech • Cisco Certified Network Associate (CCNA) Training</li>
 <li style="margin-bottom: 10px;">PeopleNTech • MikroTik Configuration Training</li>
 <li style="margin-bottom: 10px;">Interactive Care • DevOps Training - In Progress</li>
-<li style="margin-bottom: 10px;">BASIS • Server Administration Including Windows Server Management Training</li>
-<li style="margin-bottom: 10px;">WSDA Bangladesh Ltd. • Professional English Communication</li>
+<li style="margin-bottom: 10px;">BASIS 🤝 SEIP 🤝 PeopleNTech Institute of IT • Server Administration Including Windows Server Management Training</li>
+<li style="margin-bottom: 10px;">Workplace Skills Development Academy (WSDA) New Zealand • Professional English Communication</li>
 <li style="margin-bottom: 10px;">Royale Capital LTD. • Fundamental Analysis of Stock Market Companies</li>
 <li style="margin-bottom: 10px;">Google • Python Automation</li> 
 <li style="margin-bottom: 10px;">BYLCx • Effective Teamwork</li>
