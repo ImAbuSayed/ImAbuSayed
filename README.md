@@ -69,7 +69,7 @@
 
 <p style="line-height: 1.5;"><b>B.Sc in Computer Science & Engineering (CSE)</b><br>
 Bangladesh Institute of Science and Technology, Dhaka<br> 
-<i>Currently in final semester, expected completion in 2023</i></p>
+<i>2023</i></p>
 
 <p style="line-height: 1.5;"><b>Higher Secondary School Certificate (HSC)</b><br>  
 Govt. Bangla College, Dhaka<br>
