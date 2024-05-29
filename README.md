@@ -53,7 +53,7 @@
   <li style="margin-bottom: 10px;">Achievements: Developed a predictive model for yarn demand forecasting, resulting in a 15% reduction in excess inventory and associated costs. Optimized the production scheduling process, leading to a 10% increase in overall efficiency and throughput. Implemented data quality checks and validation processes, improving data accuracy by 20%.</li>
 </ul>
 
-<h3 style="font-size: 18px;color: #000;">Systems Administrator & Web Developer @ Ai Blogify (Jan 2023 - Feb 2024)</h3>
+<h3 style="font-size: 18px;color: #000;">Founder @ Ai Blogify @ Trading Now @ ToolsNess (Nov 2021 - Feb 2024)</h3>
 
 <ul>
 <li style="margin-bottom: 10px;">Manage VPS servers, firewalls, web stack, DNS, scaling</li>
@@ -61,6 +61,12 @@
 <li style="margin-bottom: 10px;">Optimize sites for maximum speed and security</li>
 <li style="margin-bottom: 10px;">Implement SEO strategies and integrate analytics</li> 
 <li style="margin-bottom: 10px;">Author technical documentation and admin guides</li>
+  <li style="margin-bottom: 10px;">Researched and developed SAAS products as an Admin</li>
+  <li style="margin-bottom: 10px;">Created various online tools using PHP, CodeIgniter</li>
+  <li style="margin-bottom: 10px;">Engaged in copywriting and SEO using tools such as Google Keyword Planner, Semrush, Screaming Frog, etc.</li>
+  <li style="margin-bottom: 10px;">Developed web scraping scripts for data collection</li>
+  <li style="margin-bottom: 10px;">Managed WordPress (CMS) and debugged code errors</li>
+  <li style="margin-bottom: 10px;">Managed Web server, Webmaster and Analytics Tools such as Google Search Console, Bing & Yandex Webmaster</li>
 </ul>
 
 <p><b>Ref.:</b> <a href="https://cutt.ly/Aw6kqQUP" target="_blank" style="color: #1e90ff;text-decoration: none;">Ai Blogify</a>, <a href="https://cutt.ly/Nw6keYUw" target="_blank" style="color: #1e90ff;text-decoration: none;">Ai Blogify CPA Marketing Tools</a>, <a href="https://cutt.ly/kw6krwOL" target="_blank" style="color: #1e90ff;text-decoration: none;">Prompts Mega Collection</a>, <a href="https://cutt.ly/2w6ktwAq" target="_blank" style="color: #1e90ff;text-decoration: none;">AI SEO Tools</a>.</p>
