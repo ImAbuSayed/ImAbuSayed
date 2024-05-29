@@ -28,6 +28,10 @@
 <h3 style="font-size: 18px;color: #000;">Backend Developer @ Aesthetic Code Lab (May 2024 - Present)</h3>
 
 <ul>
+  <li style="margin-bottom: 10px;">Conducted specialized courses in Artificial Intelligence and Web Application Development.</li>
+  <li style="margin-bottom: 10px;">Taught AI Voice-to-Voice Chat Bot development using OpenAI API models in PHP and Laravel.</li>
+  <li style="margin-bottom: 10px;">Mentored IoT and Robotics Engineering students on backend development best practices.</li>
+  <li style="margin-bottom: 10px;">Developed and implemented an AI-powered job matching platform.</li>
 <li style="margin-bottom: 10px;">Developed and maintained high-performance, reusable, and reliable code for web applications using ReactJS and Laravel framework.</li>
 <li style="margin-bottom: 10px;">Designed, coded, tested, and implemented software according to design specifications, following standard coding styles and practices.</li>
 <li style="margin-bottom: 10px;">Utilized strong knowledge of PHP, MySQL, JavaScript, CSS, HTML, and front-end languages to build and improve web applications.</li>
@@ -36,6 +40,17 @@
   <li style="margin-bottom: 10px;">Worked with cloud-based infrastructure and platform services.</li>
   <li style="margin-bottom: 10px;">Maintained documentation on SDLC and application requirements.</li>
   <li style="margin-bottom: 10px;">Employed development environment tools and techniques like Git and CI/CD.</li>
+</ul>
+
+<h3 style="font-size: 18px;color: #000;">Business Data Analyst @ Otto Spinning Ltd. (March 2021 - April 2024)</h3>
+
+<ul>
+<li style="margin-bottom: 10px;">Analyzed complex business data from multiple sources to identify trends, patterns, and opportunities for process optimization and cost savings.</li>
+<li style="margin-bottom: 10px;">Developed comprehensive reports, dashboards, and data visualizations to communicate insights and recommendations to senior management.</li>
+<li style="margin-bottom: 10px;">Collaborated closely with cross-functional teams, including production, quality control, and supply chain, to drive data-driven decision-making.</li>
+<li style="margin-bottom: 10px;">Conducted in-depth analyses of production data, sales data, and market trends to support strategic planning and forecasting.</li> 
+<li style="margin-bottom: 10px;">Implemented data governance policies and procedures to ensure data quality, integrity, and security.</li>
+  <li style="margin-bottom: 10px;">Achievements: Developed a predictive model for yarn demand forecasting, resulting in a 15% reduction in excess inventory and associated costs. Optimized the production scheduling process, leading to a 10% increase in overall efficiency and throughput. Implemented data quality checks and validation processes, improving data accuracy by 20%.</li>
 </ul>
 
 <h3 style="font-size: 18px;color: #000;">Systems Administrator & Web Developer @ Ai Blogify (Jan 2023 - Feb 2024)</h3>
