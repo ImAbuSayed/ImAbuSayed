@@ -81,7 +81,7 @@
   <li style="margin-bottom: 10px;">Successfully Ran and Managed Google Ads, Facebook Ads and Other social media ads</li>
 </ul>
 
-<p><b>Ref.:</b> <a href="https://cutt.ly/Aw6kqQUP" target="_blank" style="color: #1e90ff;text-decoration: none;">Ai Blogify</a>, <a href="https://cutt.ly/Nw6keYUw" target="_blank" style="color: #1e90ff;text-decoration: none;">Ai Blogify CPA Marketing Tools</a>, <a href="https://cutt.ly/kw6krwOL" target="_blank" style="color: #1e90ff;text-decoration: none;">Prompts Mega Collection</a>, <a href="https://cutt.ly/2w6ktwAq" target="_blank" style="color: #1e90ff;text-decoration: none;">AI SEO Tools</a>.</p>
+<p><b>Ref.:</b> <a href="https://cutt.ly/Aw6kqQUP" target="_blank" style="color: #1e90ff;text-decoration: none;">Ai Blogify</a>, <a href="https://cutt.ly/Nw6keYUw" target="_blank" style="color: #1e90ff;text-decoration: none;">Ai Blogify CPA Marketing Tools</a>, <a href="https://cutt.ly/kw6krwOL" target="_blank" style="color: #1e90ff;text-decoration: none;">Prompts Mega Collection</a>, <a href="https://cutt.ly/2w6ktwAq" target="_blank" style="color: #1e90ff;text-decoration: none;">AI SEO Tools</a>, <a href="https://cutt.ly/IwcKbsEC" target="_blank" style="color: #1e90ff;text-decoration: none;">TreadingNow.Org</a>, <a href="https://cutt.ly/MwcKmoeR" target="_blank" style="color: #1e90ff;text-decoration: none;">ToolsNess.Com</a> .</p>
 
 <h3 style="font-size: 18px;color: #000;">Freelance Web Developer (2019 - 2022)</h3>
 
