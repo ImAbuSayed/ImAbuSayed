@@ -10,18 +10,28 @@
 
 <h2 style="color: #1e90ff;font-size: 24px;">Career Objective</h2>  
 
-<p style="line-height: 1.5;">Ambitious IT professional with expertise in web development, systems administration, computer networking, DevOps methodologies and tools. Able to manage complex technical projects from concept to completion. Seeking to utilize skills to help companies implement efficient technology solutions.</p>
+<p style="line-height: 1.5;">Ambitious IT professional with expertise in web development, systems administration, computer networking, DevOps methodologies and tools. Able to manage complex technical projects from concept to completion. Seeking to utilize skills to help companies implement efficient technology solutions, specifically in the field of data analytics.</p>
 
 <h2 style="color: #1e90ff;font-size: 24px;">Core Skills</h2>
 
 <ul>
-<li style="margin-bottom: 10px;">Programming: Python, PHP, JavaScript</li>
+<li style="margin-bottom: 10px;">Programming: Python, PHP, JavaScript, R</li>
 <li style="margin-bottom: 10px;">Web Development: Laravel, WordPress</li>  
 <li style="margin-bottom: 10px;">Databases: MySQL</li>
 <li style="margin-bottom: 10px;">OS & Tools: Linux, Windows Server, Docker, cPanel, Webmin, Kubernetes</li>
 <li style="margin-bottom: 10px;">Networking: Cisco CCNA, MikroTik</li>
 <li style="margin-bottom: 10px;">DevOps: Jenkins, Ansible, Terraform, ELK Stack</li>
+  <li style="margin-bottom: 10px;">Data Analytics Tools:
+
+<ul>
+<li>Python Libraries: Pandas, NumPy, Matplotlib, Scikit-learn</li>
+<li>Visualization Tools: Tableau, Power BI</li>
+<li>Big Data Processing: Apache Spark</li>
 </ul>
+</li>
+</ul>
+</ul>
+
 
 <h2 style="color: #1e90ff;font-size: 24px;">Professional Experience</h2>
 
@@ -67,6 +77,8 @@
   <li style="margin-bottom: 10px;">Developed web scraping scripts for data collection</li>
   <li style="margin-bottom: 10px;">Managed WordPress (CMS) and debugged code errors</li>
   <li style="margin-bottom: 10px;">Managed Web server, Webmaster and Analytics Tools such as Google Search Console, Bing & Yandex Webmaster</li>
+  <li style="margin-bottom: 10px;">Worked with different 3rd Party Ad Network Platforms including Google Adsense.</li>
+  <li style="margin-bottom: 10px;">Successfully Ran and Managed Google Ads, Facebook Ads and Other social media ads</li>
 </ul>
 
 <p><b>Ref.:</b> <a href="https://cutt.ly/Aw6kqQUP" target="_blank" style="color: #1e90ff;text-decoration: none;">Ai Blogify</a>, <a href="https://cutt.ly/Nw6keYUw" target="_blank" style="color: #1e90ff;text-decoration: none;">Ai Blogify CPA Marketing Tools</a>, <a href="https://cutt.ly/kw6krwOL" target="_blank" style="color: #1e90ff;text-decoration: none;">Prompts Mega Collection</a>, <a href="https://cutt.ly/2w6ktwAq" target="_blank" style="color: #1e90ff;text-decoration: none;">AI SEO Tools</a>.</p>
