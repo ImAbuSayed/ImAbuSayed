@@ -100,17 +100,17 @@
 
 <div class="edu" style="background-color: #e6f2ff;padding: 20px;border-radius: 10px;">
 
-<p style="line-height: 1.5;"><b>B.Sc in Computer Science & Engineering (CSE)</b><br>
+<p style="line-height: 1.5;"><b>Bachelor of Science (BSc.)</b><br>
 Bangladesh Institute of Science and Technology, Dhaka<br> 
-<i>2023</i></p>
+<i>Computer Science & Engineering (CSE)</i></p>
 
 <p style="line-height: 1.5;"><b>Higher Secondary School Certificate (HSC)</b><br>  
 Govt. Bangla College, Dhaka<br>
-<i>2016</i></p>
+<i>Science</i></p>
 
 <p style="line-height: 1.5;"><b>Secondary School Certificate (SSC)</b><br>
 Govt Science College Attached High School, Dhaka<br>
-<i>2014</i></p>
+<i>Science</i></p>
 
 </div>
 
