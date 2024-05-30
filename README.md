@@ -133,7 +133,7 @@ Govt Science College Attached High School, Dhaka<br>
 <ul>
 <li style="margin-bottom: 10px;">Date of Birth: 26th December 1998</li>
 <li style="margin-bottom: 10px;">Languages: English (Fluent), Bangla (Native)</li>
-<li style="margin-bottom: 10px;">Interests: Technology, research, listening podcasts/songs, gaming</li>
+<li style="margin-bottom: 10px;">Interests: Technology, research, listening podcasts, singing song, gaming</li>
 </ul>
 
 </body>
