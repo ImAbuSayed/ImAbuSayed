@@ -2,7 +2,7 @@
 
 <h1 style="color: #1e90ff;font-size: 32px;animation: slideDown 0.8s ease-in-out;">Abu Sayed</h1>
 
-<h2 style="color: #1e90ff;font-size: 24px;">IT Professional | DevOps Engineer | Systems Administrator | Backend Developer</h2>
+<h2 style="color: #1e90ff;font-size: 24px;">IT Professional | Systems Administrator | Backend Developer</h2>
 
 <p style="line-height: 1.5;">Dhaka, Bangladesh</p>
 
