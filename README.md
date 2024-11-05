@@ -136,4 +136,6 @@ Govt Science College Attached High School, Dhaka<br>
 <li style="margin-bottom: 10px;">Interests: Technology, research, listening podcasts, singing song, gaming</li>
 </ul>
 
+<center>Click to view <a href="https://imabusayed.github.io/abu-sayed-dev-portfolio/">Digital Version Of This Page</a></center>
+
 </body>
