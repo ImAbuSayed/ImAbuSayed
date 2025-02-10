@@ -38,6 +38,15 @@
 <h3 style="font-size: 18px;color: #000;">Backend Developer @ Aesthetic Code Lab (May 2024 - Present)</h3>
 
 <ul>
+  <li style="margin-bottom: 10px;">Led development of two enterprise-scale platforms currently serving production traffic:
+    <ul>
+      <li>Employment Management System with Unity VR Avatar Customization (<a href="https://japanskill.work" target="_blank" style="color: #1e90ff;text-decoration: none;">japanskill.work</a>)</li>
+      <li>Interview Management System with Jitsi-based Video Conferencing (<a href="https://interbrew.site" target="_blank" style="color: #1e90ff;text-decoration: none;">interbrew.site</a>)</li>
+    </ul>
+  </li>
+  <li style="margin-bottom: 10px;">Architected VR integration using Unity3D for employee avatar customization system</li>
+  <li style="margin-bottom: 10px;">Implemented real-time video conferencing features using Jitsi Meet SDK</li>
+  <li style="margin-bottom: 10px;">Developed AI-powered job matching algorithm with 92% accuracy rate</li>
   <li style="margin-bottom: 10px;">Conducted specialized courses in Artificial Intelligence and Web Application Development.</li>
   <li style="margin-bottom: 10px;">Taught AI Voice-to-Voice Chat Bot development using OpenAI API models in PHP and Laravel.</li>
   <li style="margin-bottom: 10px;">Mentored IoT and Robotics Engineering students on backend development best practices.</li>
