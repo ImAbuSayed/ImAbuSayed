@@ -97,7 +97,7 @@ Ambitious IT professional specializing as a **top Laravel developer in Banglades
 ## Recent Projects
 
 - **Employee Management System with Unity VR Avatar Customization (AI Integrated Job Site)**  
-  *Tech*: Laravel, Livewire, Tailwind CSS, OpenAI API, Unity C#, PHP  
+  *Tech*: Laravel, Livewire, Tailwind CSS, OpenAI API, Unity, C# 
   [Live Demo](https://japanskill.work)  
 
 - **Interview Management System with Internal Video Conferencing**  
