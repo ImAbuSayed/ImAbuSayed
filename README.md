@@ -38,27 +38,35 @@
 <h3 style="font-size: 18px;color: #000;">Backend Developer @ Aesthetic Code Lab (May 2024 - Present)</h3>
 
 <ul>
-  <li style="margin-bottom: 10px;">Led development of two enterprise-scale platforms currently serving production traffic:
+  <li style="margin-bottom: 10px;">Led development of three enterprise-scale platforms currently serving production traffic:
     <ul>
       <li>Employment Management System with Unity VR Avatar Customization (<a href="https://japanskill.work" target="_blank" style="color: #1e90ff;text-decoration: none;">japanskill.work</a>)</li>
       <li>Interview Management System with Jitsi-based Video Conferencing (<a href="https://interbrew.site" target="_blank" style="color: #1e90ff;text-decoration: none;">interbrew.site</a>)</li>
+      <li>Event Management System (<a href="https://event.hawaiialohaacademy.com" target="_blank" style="color: #1e90ff;text-decoration: none;">event.hawaiialohaacademy.com</a>)</li>
     </ul>
   </li>
-  <li style="margin-bottom: 10px;">Architected VR integration using Unity3D for employee avatar customization system</li>
-  <li style="margin-bottom: 10px;">Implemented real-time video conferencing features using Jitsi Meet SDK</li>
-  <li style="margin-bottom: 10px;">Developed AI-powered job matching algorithm with 92% accuracy rate</li>
-  <li style="margin-bottom: 10px;">Conducted specialized courses in Artificial Intelligence and Web Application Development.</li>
-  <li style="margin-bottom: 10px;">Taught AI Voice-to-Voice Chat Bot development using OpenAI API models in PHP and Laravel.</li>
-  <li style="margin-bottom: 10px;">Mentored IoT and Robotics Engineering students on backend development best practices.</li>
-  <li style="margin-bottom: 10px;">Developed and implemented an AI-powered job matching platform.</li>
-<li style="margin-bottom: 10px;">Developed and maintained high-performance, reusable, and reliable code for web applications using ReactJS and Laravel framework.</li>
-<li style="margin-bottom: 10px;">Designed, coded, tested, and implemented software according to design specifications, following standard coding styles and practices.</li>
-<li style="margin-bottom: 10px;">Utilized strong knowledge of PHP, MySQL, JavaScript, CSS, HTML, and front-end languages to build and improve web applications.</li>
-<li style="margin-bottom: 10px;">Integrated third-party services and APIs to fulfill customer requirements.</li> 
-<li style="margin-bottom: 10px;">Contributed to the development of audio, video calling systems, and live streaming features.</li>
-  <li style="margin-bottom: 10px;">Worked with cloud-based infrastructure and platform services.</li>
-  <li style="margin-bottom: 10px;">Maintained documentation on SDLC and application requirements.</li>
-  <li style="margin-bottom: 10px;">Employed development environment tools and techniques like Git and CI/CD.</li>
+  <li style="margin-bottom: 10px;">Architected VR integration using Unity3D and C# for employee avatar customization in the Employment Management System.</li>
+  <li style="margin-bottom: 10px;">Implemented real-time video conferencing using Jitsi Meet SDK and Zoom Meet API for the Interview Management System.</li>
+  <li style="margin-bottom: 10px;">Developed an AI-powered job matching algorithm with 92% accuracy, enhancing recruitment efficiency.</li>
+  <li style="margin-bottom: 10px;">Designed and delivered specialized courses in Artificial Intelligence and Web Application Development as an AI Instructor:
+    <ul>
+      <li>Supported an MoU between Gazipur Digital University (formerly Bangabandhu Sheikh Mujibur Rahman Digital University, BDU) and Tokyo Gogaku Gakko (TGG, <a href="https://tgg.tokyo/" target="_blank" style="color: #1e90ff;text-decoration: none;">tgg.tokyo</a>), signed on April 23, 2024, at Kaliakoir, Gazipur.</li>
+      <li>As part of Aesthetic Code Lab’s contract with TGG, provided technical expertise and support for initiatives in AI, VR, Japanese language education, and internship/job placement with Japanese institutions.</li>
+      <li>Developed curriculum and served as lead instructor for final-year students at Gazipur Digital University, under the IoT and Robotics Engineering Department’s initiative.</li>
+      <li>Prepared course materials bridging academic and industry needs, evaluated final projects, and mentored students, with plans for a Capstone Project for IoT students starting 2025 (<a href="https://digibanglatech.news/MoU%20signed%20between%20BDU%20and%20Tokyo%20Gogaku%20Gakko" target="_blank" style="color: #1e90ff;text-decoration: none;">Report</a>).</li>
+      <li>Note: The university was renamed from BDU to Gazipur Digital University on February 13, 2025, per an ordinance by President Mohammed Shahabuddin, published in the official gazette (<a href="https://www.tbsnews.net/bangladesh/13-universities-renamed-sheikh-family-honorifics-be-dropped-1044386" target="_blank" style="color: #1e90ff;text-decoration: none;">Report</a>). But students demanding that the university be renamed "Bangladesh Digital University". (<a href="https://www.thedailystar.net/news/bangladesh/news/rename-gazipur-digital-university-demand-students-3828816" target="_blank" style="color: #1e90ff;text-decoration: none;">Report</a>)</li>
+    </ul>
+  </li>
+  </li>
+  <li style="margin-bottom: 10px;">Taught AI Voice-to-Voice Chat Bot development using OpenAI API with PHP and Laravel frameworks.</li>
+  <li style="margin-bottom: 10px;">Mentored IoT and Robotics Engineering students at Gazipur Digital University (formerly BDU) on backend development best practices, preparing them for real-world challenges.</li>
+  <li style="margin-bottom: 10px;">Developed and maintained high-performance, reusable, and reliable code using ReactJS, Laravel, PHP, MySQL, JavaScript, CSS, and HTML.</li>
+  <li style="margin-bottom: 10px;">Designed, coded, tested, and implemented software per specifications, adhering to standard coding practices.</li>
+  <li style="margin-bottom: 10px;">Integrated third-party services and APIs (e.g., OpenAI, Jitsi Meet, Zoom) to meet customer requirements.</li>
+  <li style="margin-bottom: 10px;">Contributed to audio/video calling systems and live streaming features for web applications.</li>
+  <li style="margin-bottom: 10px;">Worked with cloud-based infrastructure and platform services to ensure scalability and reliability.</li>
+  <li style="margin-bottom: 10px;">Maintained detailed SDLC and application requirement documentation.</li>
+  <li style="margin-bottom: 10px;">Utilized Git and CI/CD tools to streamline development workflows.</li>
 </ul>
 
 <h3 style="font-size: 18px;color: #000;">Business Data Analyst @ Otto Spinning Ltd. (March 2021 - April 2024)</h3>
@@ -104,6 +112,20 @@
 <h3 style="font-size: 18px;color: #000;">Volunteer Work @ Quantum Foundation (2012 - 2015)</h3> 
 
 <ul> <li style="margin-bottom: 10px;">Completed Quantum Method course and volunteered for 3 years at various camps in Mirpur</li> <li style="margin-bottom: 10px;">Organized blood donation drives, charity events, and family support programs</li> </ul>
+
+## Recent Projects
+- **Employee Management System with Unity VR Avatar Customization (AI Intregeted Job Site) **  
+  Tech: Laravel, Livewire, Tailwind CSS, OpenAI API, Unity C#, PHP  
+  [Live Demo](https://japanskill.work)  
+- **Interview Management System with Internal Video Conferencing**  
+  Tech: Laravel, Livewire, Tailwind CSS, Jitsi Meet, Zoom Meet API  
+  [Live Demo](https://interbrew.site)  
+- **Event Management System**  
+  Tech: Laravel, Livewire, Tailwind CSS  
+  [Live Demo](https://event.hawaiialohaacademy.com)  
+- **ChatLab AI**  
+  Tech: React Native, Expo, JavaScript  
+  [Project Page](https://abusayed.com.bd/projects/chatlab-ai/) | [Play Store](#) (Netherlands only until March 2025)  
 
 <h2 style="color: #1e90ff;font-size: 24px;">Education</h2>
 
