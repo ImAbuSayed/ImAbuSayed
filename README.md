@@ -110,7 +110,7 @@ Ambitious IT professional specializing as a **top Laravel developer in Banglades
 
 - **ChatLab AI**  
   *Tech*: React Native, Expo, JavaScript  
-  [Project Page](https://abusayed.com.bd/projects/chatlab-ai/) | [Play Store](#) (Netherlands only until March 2025)  
+  [Project Page](https://abusayed.com.bd/projects/chatlab-ai/) | [Play Store](https://play.google.com/store/apps/details?id=com.abusayed.chatlabai) (Netherlands only until March 2025)  
 
 ---
 
