@@ -134,7 +134,7 @@ Ambitious IT professional specializing as a **top Laravel developer in Banglades
 
 - PeopleNTech • Cisco Certified Network Associate (CCNA) Training  
 - PeopleNTech • MikroTik Configuration Training  
-- Interactive Care • DevOps Training - In Progress  
+- Interactive Care • DevOps Training
 - BASIS 🤝 SEIP 🤝 PeopleNTech Institute of IT • Server Administration Including Windows Server Management Training  
 - Workplace Skills Development Academy (WSDA) New Zealand • Professional English Communication  
 - Royale Capital LTD. • Fundamental Analysis of Stock Market Companies  
