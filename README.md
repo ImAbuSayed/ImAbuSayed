@@ -1,172 +1,156 @@
-<body style="font-family: Arial, sans-serif;background-color: #f2f2f2;">
+# Abu Sayed
 
-<h1 style="color: #1e90ff;font-size: 32px;animation: slideDown 0.8s ease-in-out;">Abu Sayed</h1>
+**IT Professional | Systems Administrator | Top Laravel Developer | Best Unity Developer | AWS Expert | Jenkins Specialist in Bangladesh**
 
-<h2 style="color: #1e90ff;font-size: 24px;">IT Professional | Systems Administrator | Backend Developer</h2>
+Dhaka, Bangladesh  
+Phone: +8801925785462 | Email: [hi@abusayed.com.bd](mailto:hi@abusayed.com.bd) | [Website](https://abusayed.com.bd/) | [Blog](https://abu-sayed.medium.com/) | [LinkedIn](https://bd.linkedin.com/in/imabusayed)
 
-<p style="line-height: 1.5;">Dhaka, Bangladesh</p>
+---
 
-<p style="line-height: 1.5;">Phone: +8801925785462 | Email: <a href="mailto:hi@abusayed.com.bd" style="color: #1e90ff;text-decoration: none;">hi@abusayed.com.bd</a> | <a href="https://abusayed.com.bd/" style="color: #1e90ff;text-decoration: none;">Website</a> | <a href="https://abu-sayed.medium.com/" style="color: #1e90ff;text-decoration: none;">Blog</a> | <a href="https://bd.linkedin.com/in/imabusayed" target="_blank" style="color: #1e90ff;text-decoration: none;">LinkedIn</a></p>
+## Career Objective
 
-<h2 style="color: #1e90ff;font-size: 24px;">Career Objective</h2>  
+Ambitious IT professional specializing as a **top Laravel developer in Bangladesh** and **best Unity developer in Bangladesh**, with expertise in web development, systems administration, computer networking, and DevOps tools like **AWS** and **Jenkins**. Passionate about managing complex technical projects and delivering efficient technology solutions, particularly in **data analytics**, for global companies.
 
-<p style="line-height: 1.5;">Ambitious IT professional with expertise in web development, systems administration, computer networking, DevOps methodologies and tools. Able to manage complex technical projects from concept to completion. Seeking to utilize skills to help companies implement efficient technology solutions, specifically in the field of data analytics.</p>
+---
 
-<h2 style="color: #1e90ff;font-size: 24px;">Core Skills</h2>
+## Core Skills
 
-<ul>
-<li style="margin-bottom: 10px;">Programming: Python, PHP, JavaScript, R</li>
-<li style="margin-bottom: 10px;">Web Development: Laravel, WordPress</li>  
-<li style="margin-bottom: 10px;">Databases: MySQL</li>
-<li style="margin-bottom: 10px;">OS & Tools: Linux, Windows Server, Docker, cPanel, Webmin, Kubernetes</li>
-<li style="margin-bottom: 10px;">Networking: Cisco CCNA, MikroTik</li>
-<li style="margin-bottom: 10px;">DevOps: Jenkins, Ansible, Terraform, ELK Stack</li>
-  <li style="margin-bottom: 10px;">Data Analytics Tools:
+- **Programming**: Python, PHP, JavaScript, R  
+- **Web Development**: Laravel, WordPress  
+- **Databases**: MySQL  
+- **OS & Tools**: Linux, Windows Server, Docker, cPanel, Webmin, Kubernetes  
+- **Networking**: Cisco CCNA, MikroTik  
+- **DevOps**: Jenkins, Ansible, Terraform, ELK Stack, AWS  
+- **Data Analytics Tools**:  
+  - Python Libraries: Pandas, NumPy, Matplotlib, Scikit-learn  
+  - Visualization Tools: Tableau, Power BI  
+  - Big Data Processing: Apache Spark  
 
-<ul>
-<li>Python Libraries: Pandas, NumPy, Matplotlib, Scikit-learn</li>
-<li>Visualization Tools: Tableau, Power BI</li>
-<li>Big Data Processing: Apache Spark</li>
-</ul>
-</li>
-</ul>
-</ul>
+---
 
+## Professional Experience
 
-<h2 style="color: #1e90ff;font-size: 24px;">Professional Experience</h2>
+### Backend Developer @ Aesthetic Code Lab (May 2024 - Present)
 
-<h3 style="font-size: 18px;color: #000;">Backend Developer @ Aesthetic Code Lab (May 2024 - Present)</h3>
+- Led development of three enterprise-scale platforms serving production traffic:  
+  - [Employment Management System with Unity VR Avatar Customization](https://japanskill.work)  
+  - [Interview Management System with Jitsi-based Video Conferencing](https://interbrew.site)  
+  - [Event Management System](https://event.hawaiialohaacademy.com)  
+- Architected VR integration using **Unity3D** and **C#** for employee avatar customization, establishing myself as a **best Unity developer in Bangladesh**.  
+- Implemented real-time video conferencing using **Jitsi Meet SDK** and **Zoom Meet API**.  
+- Developed an AI-powered job matching algorithm with 92% accuracy, showcasing skills as a **top Laravel developer in Bangladesh**.  
+- Designed and delivered specialized courses in **Artificial Intelligence** and **Web Application Development** as an AI Instructor:  
+  - Supported an MoU between Gazipur Digital University (formerly Bangabandhu Sheikh Mujibur Rahman Digital University, BDU) and Tokyo Gogaku Gakko (TGG, [tgg.tokyo](https://tgg.tokyo/)), signed on April 23, 2024, at Kaliakoir, Gazipur.  
+  - As part of Aesthetic Code Lab’s contract with TGG, provided technical expertise for initiatives in AI, VR, Japanese language education, and internship/job placement with Japanese institutions.  
+  - Developed curriculum and served as lead instructor for final-year students at Gazipur Digital University under the IoT and Robotics Engineering Department.  
+  - Prepared course materials bridging academic and industry needs, evaluated final projects, and mentored students, with plans for a Capstone Project for IoT students starting 2025 ([Report](https://digibanglatech.news/MoU%20signed%20between%20BDU%20and%20Tokyo%20Gogaku%20Gakko)).  
+  - Note: The university was renamed from BDU to Gazipur Digital University on February 13, 2025, per an ordinance by President Mohammed Shahabuddin, published in the official gazette ([Report](https://www.tbsnews.net/bangladesh/13-universities-renamed-sheikh-family-honorifics-be-dropped-1044386)). Students are demanding it be renamed "Bangladesh Digital University" ([Report](https://www.thedailystar.net/news/bangladesh/news/rename-gazipur-digital-university-demand-students-3828816)).  
+- Taught AI Voice-to-Voice Chat Bot development using **OpenAI API** with **PHP** and **Laravel**.  
+- Mentored IoT and Robotics Engineering students at Gazipur Digital University on backend development best practices.  
+- Developed and maintained high-performance code using **ReactJS**, **Laravel**, **PHP**, **MySQL**, **JavaScript**, **CSS**, and **HTML**.  
+- Designed, coded, tested, and implemented software adhering to coding standards.  
+- Integrated third-party services and APIs (e.g., **OpenAI**, **Jitsi Meet**, **Zoom**) to meet customer needs.  
+- Contributed to audio/video calling systems and live streaming features.  
+- Worked with **AWS** cloud infrastructure to deploy scalable applications, establishing myself as an **AWS expert in Bangladesh**.  
+- Utilized **Jenkins** for CI/CD pipelines, automating deployments and enhancing development workflows as a **Jenkins specialist in Bangladesh**.  
+- Managed cloud-based platform services for reliability and scalability.  
+- Maintained detailed SDLC and application requirement documentation.  
+- Employed **Git** and **CI/CD** tools to streamline development processes.  
 
-<ul>
-  <li style="margin-bottom: 10px;">Led development of three enterprise-scale platforms currently serving production traffic:
-    <ul>
-      <li>Employment Management System with Unity VR Avatar Customization (<a href="https://japanskill.work" target="_blank" style="color: #1e90ff;text-decoration: none;">japanskill.work</a>)</li>
-      <li>Interview Management System with Jitsi-based Video Conferencing (<a href="https://interbrew.site" target="_blank" style="color: #1e90ff;text-decoration: none;">interbrew.site</a>)</li>
-      <li>Event Management System (<a href="https://event.hawaiialohaacademy.com" target="_blank" style="color: #1e90ff;text-decoration: none;">event.hawaiialohaacademy.com</a>)</li>
-    </ul>
-  </li>
-  <li style="margin-bottom: 10px;">Architected VR integration using Unity3D and C# for employee avatar customization in the Employment Management System.</li>
-  <li style="margin-bottom: 10px;">Implemented real-time video conferencing using Jitsi Meet SDK and Zoom Meet API for the Interview Management System.</li>
-  <li style="margin-bottom: 10px;">Developed an AI-powered job matching algorithm with 92% accuracy, enhancing recruitment efficiency.</li>
-  <li style="margin-bottom: 10px;">Designed and delivered specialized courses in Artificial Intelligence and Web Application Development as an AI Instructor:
-    <ul>
-      <li>Supported an MoU between Gazipur Digital University (formerly Bangabandhu Sheikh Mujibur Rahman Digital University, BDU) and Tokyo Gogaku Gakko (TGG, <a href="https://tgg.tokyo/" target="_blank" style="color: #1e90ff;text-decoration: none;">tgg.tokyo</a>), signed on April 23, 2024, at Kaliakoir, Gazipur.</li>
-      <li>As part of Aesthetic Code Lab’s contract with TGG, provided technical expertise and support for initiatives in AI, VR, Japanese language education, and internship/job placement with Japanese institutions.</li>
-      <li>Developed curriculum and served as lead instructor for final-year students at Gazipur Digital University, under the IoT and Robotics Engineering Department’s initiative.</li>
-      <li>Prepared course materials bridging academic and industry needs, evaluated final projects, and mentored students, with plans for a Capstone Project for IoT students starting 2025 (<a href="https://digibanglatech.news/MoU%20signed%20between%20BDU%20and%20Tokyo%20Gogaku%20Gakko" target="_blank" style="color: #1e90ff;text-decoration: none;">Report</a>).</li>
-      <li>Note: The university was renamed from BDU to Gazipur Digital University on February 13, 2025, per an ordinance by President Mohammed Shahabuddin, published in the official gazette (<a href="https://www.tbsnews.net/bangladesh/13-universities-renamed-sheikh-family-honorifics-be-dropped-1044386" target="_blank" style="color: #1e90ff;text-decoration: none;">Report</a>). But students demanding that the university be renamed "Bangladesh Digital University". (<a href="https://www.thedailystar.net/news/bangladesh/news/rename-gazipur-digital-university-demand-students-3828816" target="_blank" style="color: #1e90ff;text-decoration: none;">Report</a>)</li>
-    </ul>
-  </li>
-  </li>
-  <li style="margin-bottom: 10px;">Taught AI Voice-to-Voice Chat Bot development using OpenAI API with PHP and Laravel frameworks.</li>
-  <li style="margin-bottom: 10px;">Mentored IoT and Robotics Engineering students at Gazipur Digital University (formerly BDU) on backend development best practices, preparing them for real-world challenges.</li>
-  <li style="margin-bottom: 10px;">Developed and maintained high-performance, reusable, and reliable code using ReactJS, Laravel, PHP, MySQL, JavaScript, CSS, and HTML.</li>
-  <li style="margin-bottom: 10px;">Designed, coded, tested, and implemented software per specifications, adhering to standard coding practices.</li>
-  <li style="margin-bottom: 10px;">Integrated third-party services and APIs (e.g., OpenAI, Jitsi Meet, Zoom) to meet customer requirements.</li>
-  <li style="margin-bottom: 10px;">Contributed to audio/video calling systems and live streaming features for web applications.</li>
-  <li style="margin-bottom: 10px;">Worked with cloud-based infrastructure and platform services to ensure scalability and reliability.</li>
-  <li style="margin-bottom: 10px;">Maintained detailed SDLC and application requirement documentation.</li>
-  <li style="margin-bottom: 10px;">Utilized Git and CI/CD tools to streamline development workflows.</li>
-</ul>
+### Business Data Analyst @ Otto Spinning Ltd. (March 2021 - April 2024)
 
-<h3 style="font-size: 18px;color: #000;">Business Data Analyst @ Otto Spinning Ltd. (March 2021 - April 2024)</h3>
+- Analyzed complex business data to identify trends, patterns, and optimization opportunities.  
+- Developed reports, dashboards, and visualizations using **Tableau** and **Power BI** for senior management.  
+- Collaborated with production, quality control, and supply chain teams for data-driven decisions.  
+- Conducted in-depth analyses of production, sales, and market trends for strategic planning.  
+- Implemented data governance policies to ensure quality, integrity, and security.  
+- Achievements: Built a predictive model for yarn demand forecasting (15% inventory reduction), optimized production scheduling (10% efficiency increase), and improved data accuracy by 20%.  
 
-<ul>
-<li style="margin-bottom: 10px;">Analyzed complex business data from multiple sources to identify trends, patterns, and opportunities for process optimization and cost savings.</li>
-<li style="margin-bottom: 10px;">Developed comprehensive reports, dashboards, and data visualizations to communicate insights and recommendations to senior management.</li>
-<li style="margin-bottom: 10px;">Collaborated closely with cross-functional teams, including production, quality control, and supply chain, to drive data-driven decision-making.</li>
-<li style="margin-bottom: 10px;">Conducted in-depth analyses of production data, sales data, and market trends to support strategic planning and forecasting.</li> 
-<li style="margin-bottom: 10px;">Implemented data governance policies and procedures to ensure data quality, integrity, and security.</li>
-  <li style="margin-bottom: 10px;">Achievements: Developed a predictive model for yarn demand forecasting, resulting in a 15% reduction in excess inventory and associated costs. Optimized the production scheduling process, leading to a 10% increase in overall efficiency and throughput. Implemented data quality checks and validation processes, improving data accuracy by 20%.</li>
-</ul>
+### Founder @ Ai Blogify @ Trading Now @ ToolsNess (Nov 2021 - Feb 2024)
 
-<h3 style="font-size: 18px;color: #000;">Founder @ Ai Blogify @ Trading Now @ ToolsNess (Nov 2021 - Feb 2024)</h3>
+- Managed VPS servers, firewalls, web stack, DNS, and scaling.  
+- Developed and maintained custom SaaS products and internal apps.  
+- Optimized sites for speed and security.  
+- Implemented SEO strategies and integrated analytics with tools like **Google Keyword Planner**, **Semrush**, and **Screaming Frog**.  
+- Authored technical documentation and admin guides.  
+- Researched and developed SaaS products as an Admin.  
+- Created online tools using **PHP** and **CodeIgniter**.  
+- Engaged in copywriting and SEO.  
+- Developed web scraping scripts for data collection.  
+- Managed **WordPress** CMS and debugged code errors.  
+- Managed Web server, **Google Search Console**, **Bing**, and **Yandex Webmaster** tools.  
+- Worked with **Google Adsense** and other ad platforms.  
+- Ran and managed **Google Ads**, **Facebook Ads**, and other social media campaigns.  
+- *References*: [Ai Blogify](https://cutt.ly/Aw6kqQUP), [CPA Marketing Tools](https://cutt.ly/Nw6keYUw), [Prompts Mega Collection](https://cutt.ly/kw6krwOL), [AI SEO Tools](https://cutt.ly/2w6ktwAq), [TreadingNow.Org](https://cutt.ly/IwcKbsEC), [ToolsNess.Com](https://cutt.ly/MwcKmoeR)  
 
-<ul>
-<li style="margin-bottom: 10px;">Manage VPS servers, firewalls, web stack, DNS, scaling</li>
-<li style="margin-bottom: 10px;">Develop and maintain custom SAAS products and internal apps</li>
-<li style="margin-bottom: 10px;">Optimize sites for maximum speed and security</li>
-<li style="margin-bottom: 10px;">Implement SEO strategies and integrate analytics</li> 
-<li style="margin-bottom: 10px;">Author technical documentation and admin guides</li>
-  <li style="margin-bottom: 10px;">Researched and developed SAAS products as an Admin</li>
-  <li style="margin-bottom: 10px;">Created various online tools using PHP, CodeIgniter</li>
-  <li style="margin-bottom: 10px;">Engaged in copywriting and SEO using tools such as Google Keyword Planner, Semrush, Screaming Frog, etc.</li>
-  <li style="margin-bottom: 10px;">Developed web scraping scripts for data collection</li>
-  <li style="margin-bottom: 10px;">Managed WordPress (CMS) and debugged code errors</li>
-  <li style="margin-bottom: 10px;">Managed Web server, Webmaster and Analytics Tools such as Google Search Console, Bing & Yandex Webmaster</li>
-  <li style="margin-bottom: 10px;">Worked with different 3rd Party Ad Network Platforms including Google Adsense.</li>
-  <li style="margin-bottom: 10px;">Successfully Ran and Managed Google Ads, Facebook Ads and Other social media ads</li>
-</ul>
+### Freelance Web Developer (2019 - 2022)
 
-<p><b>Ref.:</b> <a href="https://cutt.ly/Aw6kqQUP" target="_blank" style="color: #1e90ff;text-decoration: none;">Ai Blogify</a>, <a href="https://cutt.ly/Nw6keYUw" target="_blank" style="color: #1e90ff;text-decoration: none;">Ai Blogify CPA Marketing Tools</a>, <a href="https://cutt.ly/kw6krwOL" target="_blank" style="color: #1e90ff;text-decoration: none;">Prompts Mega Collection</a>, <a href="https://cutt.ly/2w6ktwAq" target="_blank" style="color: #1e90ff;text-decoration: none;">AI SEO Tools</a>, <a href="https://cutt.ly/IwcKbsEC" target="_blank" style="color: #1e90ff;text-decoration: none;">TreadingNow.Org</a>, <a href="https://cutt.ly/MwcKmoeR" target="_blank" style="color: #1e90ff;text-decoration: none;">ToolsNess.Com</a> .</p>
+- Designed and developed 50+ custom **WordPress** sites.  
+- Built secure e-commerce platforms using **PHP** and **MySQL**.  
+- Provided web hosting, maintenance, and security updates.  
+- Completed projects on time and within budget for global clients.  
 
-<h3 style="font-size: 18px;color: #000;">Freelance Web Developer (2019 - 2022)</h3>
+### Volunteer Work @ Quantum Foundation (2012 - 2015)
 
-<ul>  
-<li style="margin-bottom: 10px;">Designed and developed 50+ custom WordPress sites</li>
-<li style="margin-bottom: 10px;">Built secure e-commerce platforms using PHP, MySQL</li>
-<li style="margin-bottom: 10px;">Provided web hosting, maintenance, and security updates</li>
-<li style="margin-bottom: 10px;">Completed projects on time and budget for clients worldwide</li>
-</ul>
-
-<h3 style="font-size: 18px;color: #000;">Volunteer Work @ Quantum Foundation (2012 - 2015)</h3> 
-
-<ul> <li style="margin-bottom: 10px;">Completed Quantum Method course and volunteered for 3 years at various camps in Mirpur</li> <li style="margin-bottom: 10px;">Organized blood donation drives, charity events, and family support programs</li> </ul>
+- Completed Quantum Method course and volunteered for 3 years at camps in Mirpur.  
+- Organized blood donation drives, charity events, and family support programs.  
 
 ## Recent Projects
-- **Employee Management System with Unity VR Avatar Customization (AI Intregeted Job Site) **  
-  Tech: Laravel, Livewire, Tailwind CSS, OpenAI API, Unity C#, PHP  
+
+- **Employee Management System with Unity VR Avatar Customization (AI Integrated Job Site)**  
+  *Tech*: Laravel, Livewire, Tailwind CSS, OpenAI API, Unity C#, PHP  
   [Live Demo](https://japanskill.work)  
+
 - **Interview Management System with Internal Video Conferencing**  
-  Tech: Laravel, Livewire, Tailwind CSS, Jitsi Meet, Zoom Meet API  
+  *Tech*: Laravel, Livewire, Tailwind CSS, Jitsi Meet, Zoom Meet API  
   [Live Demo](https://interbrew.site)  
+
 - **Event Management System**  
-  Tech: Laravel, Livewire, Tailwind CSS  
+  *Tech*: Laravel, Livewire, Tailwind CSS  
   [Live Demo](https://event.hawaiialohaacademy.com)  
+
 - **ChatLab AI**  
-  Tech: React Native, Expo, JavaScript  
+  *Tech*: React Native, Expo, JavaScript  
   [Project Page](https://abusayed.com.bd/projects/chatlab-ai/) | [Play Store](#) (Netherlands only until March 2025)  
 
-<h2 style="color: #1e90ff;font-size: 24px;">Education</h2>
+---
 
-<div class="edu" style="background-color: #e6f2ff;padding: 20px;border-radius: 10px;">
+## Education
 
-<p style="line-height: 1.5;"><b>Bachelor of Science (BSc.)</b><br>
-Bangladesh Institute of Science and Technology, Dhaka<br> 
-<i>Computer Science & Engineering (CSE)</i></p>
+- **Bachelor of Science (BSc.)**  
+  Bangladesh Institute of Science and Technology, Dhaka  
+  *Computer Science & Engineering (CSE)*  
 
-<p style="line-height: 1.5;"><b>Higher Secondary School Certificate (HSC)</b><br>  
-Govt. Bangla College, Dhaka<br>
-<i>Science</i></p>
+- **Higher Secondary School Certificate (HSC)**  
+  Govt. Bangla College, Dhaka  
+  *Science*  
 
-<p style="line-height: 1.5;"><b>Secondary School Certificate (SSC)</b><br>
-Govt Science College Attached High School, Dhaka<br>
-<i>Science</i></p>
+- **Secondary School Certificate (SSC)**  
+  Govt Science College Attached High School, Dhaka  
+  *Science*  
 
-</div>
+---
 
-<h2 style="color: #1e90ff;font-size: 24px;">Certifications</h2>
+## Certifications
 
-<ul>
-<li style="margin-bottom: 10px;">PeopleNTech • Cisco Certified Network Associate (CCNA) Training</li>
-<li style="margin-bottom: 10px;">PeopleNTech • MikroTik Configuration Training</li>
-<li style="margin-bottom: 10px;">Interactive Care • DevOps Training - In Progress</li>
-<li style="margin-bottom: 10px;">BASIS 🤝 SEIP 🤝 PeopleNTech Institute of IT • Server Administration Including Windows Server Management Training</li>
-<li style="margin-bottom: 10px;">Workplace Skills Development Academy (WSDA) New Zealand • Professional English Communication</li>
-<li style="margin-bottom: 10px;">Royale Capital LTD. • Fundamental Analysis of Stock Market Companies</li>
-<li style="margin-bottom: 10px;">Google • Python Automation</li> 
-<li style="margin-bottom: 10px;">BYLCx • Effective Teamwork</li>
-<li style="margin-bottom: 10px;">BYLCx • Public Speaking</li>  
-</ul>
+- PeopleNTech • Cisco Certified Network Associate (CCNA) Training  
+- PeopleNTech • MikroTik Configuration Training  
+- Interactive Care • DevOps Training - In Progress  
+- BASIS 🤝 SEIP 🤝 PeopleNTech Institute of IT • Server Administration Including Windows Server Management Training  
+- Workplace Skills Development Academy (WSDA) New Zealand • Professional English Communication  
+- Royale Capital LTD. • Fundamental Analysis of Stock Market Companies  
+- Google • Python Automation  
+- BYLCx • Effective Teamwork  
+- BYLCx • Public Speaking  
 
-<h2 style="color: #1e90ff;font-size: 24px;">Personal Details</h2>
+---
 
-<ul>
-<li style="margin-bottom: 10px;">Date of Birth: 26th December</li>
-<li style="margin-bottom: 10px;">Languages: English (Fluent), Bangla (Native)</li>
-<li style="margin-bottom: 10px;">Interests: Technology, research, listening podcasts, singing song, gaming</li>
-</ul>
+## Personal Details
 
-<center>Click to view <a href="https://imabusayed.github.io/abu-sayed-dev-portfolio/">Digital Version Of This Page</a></center>
+- **Date of Birth**: 26th December  
+- **Languages**: English (Fluent), Bangla (Native)  
+- **Interests**: Technology, research, listening podcasts, singing, gaming  
 
-</body>
+---
+
+*Click to view the [Digital Version of This CV](https://imabusayed.github.io/abu-sayed-dev-portfolio/)*
