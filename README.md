@@ -46,7 +46,7 @@ Ambitious IT professional specializing as a **top Laravel developer in Banglades
 
 ### Backend Developer @ Aesthetic Code Lab (May 2024 - Present)
 
-- Led development of three enterprise-scale platforms serving production traffic:  
+- Led software development of three enterprise-scale platforms serving production traffic:  
   - [Employment Management System with Unity VR Avatar Customization](https://japanskill.work)  
   - [Interview Management System with Jitsi-based Video Conferencing](https://interbrew.site)  
   - [Event Management System](https://event.hawaiialohaacademy.com)  
