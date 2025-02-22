@@ -14,8 +14,8 @@ Ambitious IT professional specializing as a **top Laravel developer in Banglades
 
 ## Core Skills
 
-- **Programming**: Python, PHP, JavaScript, R, C#  
-- **Web Development**: Laravel, WordPress  
+- **Programming**: Python, PHP, JavaScript, R, C#, Dart  
+- **Web Development**: Laravel, WordPress, Flutter. React  
 - **Databases**: MySQL  
 - **OS & Tools**: Linux, Windows Server, Docker, cPanel, Webmin, Kubernetes  
 - **Networking**: Cisco CCNA, MikroTik  
