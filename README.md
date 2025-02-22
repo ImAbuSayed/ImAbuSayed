@@ -12,18 +12,55 @@ Ambitious IT professional specializing as a **top Laravel developer in Banglades
 
 ---
 
-## Core Skills
+## Technical Proficiencies (Core Skills)
 
-- **Programming**: Python, PHP, JavaScript, R, C#, Dart  
-- **Web Development**: Laravel, WordPress, Flutter. React  
-- **Databases**: MySQL  
-- **OS & Tools**: Linux, Windows Server, Docker, cPanel, Webmin, Kubernetes  
-- **Networking**: Cisco CCNA, MikroTik  
-- **DevOps**: Jenkins, Ansible, Terraform, ELK Stack, AWS  
-- **Data Analytics Tools**:  
-  - Python Libraries: Pandas, NumPy, Matplotlib, Scikit-learn  
-  - Visualization Tools: Tableau, Power BI  
-  - Big Data Processing: Apache Spark  
+### Programming Languages
+- Python
+- PHP
+- JavaScript
+- R
+- C#
+- Dart
+- C++
+
+### Web Development
+- **Frameworks & Libraries**: Laravel, React, React Native, Flutter, Livewire, Filament PHP
+- **Content Management Systems**: WordPress
+- **Front-End Technologies**: HTML5, CSS3, SASS, Bootstrap, Tailwind CSS
+- **Back-End Technologies**: Node.js, Express.js
+
+### Databases
+- **Relational Databases**: MySQL, PostgreSQL
+- **NoSQL Databases**: MongoDB, Redis
+- **Database Management**: SQL, PL/pgSQL
+
+### Operating Systems & Tools
+- **Operating Systems**: Linux, Windows Server
+- **Containerization & Virtualization**: Docker, Kubernetes, VirtualBox
+- **Control Panels**: cPanel, Webmin
+- **Version Control**: Git, GitHub, GitLab
+
+### Networking
+- **Certifications & Skills**: Cisco CCNA, MikroTik
+- **Protocols & Services**: TCP/IP, DNS, DHCP, VPN, Firewalls
+
+### DevOps & Cloud
+- **CI/CD Tools**: Jenkins, GitLab CI/CD
+- **Configuration Management**: Ansible, Terraform
+- **Monitoring & Logging**: ELK Stack (Elasticsearch, Logstash, Kibana), Prometheus, Grafana
+- **Cloud Platforms**: AWS, Google Cloud Platform, Microsoft Azure
+
+### Data Analytics & Machine Learning
+- **Programming Libraries**: Pandas, NumPy, Matplotlib, Scikit-learn, TensorFlow, PyTorch
+- **Visualization Tools**: Tableau, Power BI, Matplotlib, Seaborn
+- **Big Data Processing**: Apache Spark, Hadoop, Hive
+- **Data Science Platforms**: Jupyter Notebooks, Google Colab
+
+### Basic Technologies
+- **Office Suites**: Microsoft Office, Google Workspace
+- **Project Management**: Agile, Scrum, Kanban
+- **Collaboration Tools**: Slack, Microsoft Teams, Trello
+- **Security**: Basic cybersecurity principles, encryption, secure coding practices
 
 ---
 
