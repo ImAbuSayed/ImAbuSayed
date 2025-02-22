@@ -1,5 +1,5 @@
 # Abu Sayed
-**IT Professional | Systems Administrator | Top Laravel Developer | Best Unity Developer | AWS Expert | Jenkins Specialist in Bangladesh**
+**IT Professional | Systems Administrator | Top Laravel Developer | Best Unity Developer | AWS Expert in Bangladesh**
 
 Dhaka, Bangladesh  
 Phone: +8801925785462 | Email: [hi@abusayed.com.bd](mailto:hi@abusayed.com.bd) | [Website](https://abusayed.com.bd/) | [Blog](https://abu-sayed.medium.com/) | [LinkedIn](https://bd.linkedin.com/in/imabusayed)
@@ -12,55 +12,33 @@ Ambitious IT professional specializing as a **top Laravel developer in Banglades
 
 ---
 
-## Technical Proficiencies (Core Skills)
+## Core Skills
 
-### Programming Languages
-- Python
-- PHP
-- JavaScript
-- R
-- C#
-- Dart
-- C++
+### Web & Cross-Platform Development
 
-### Web Development
-- **Frameworks & Libraries**: Laravel, React, React Native, Flutter, Livewire, Filament PHP
-- **Content Management Systems**: WordPress
-- **Front-End Technologies**: HTML5, CSS3, SASS, Bootstrap, Tailwind CSS
-- **Back-End Technologies**: Node.js, Express.js
+-   **Languages & Frameworks**: Python, PHP, JavaScript, Dart, Laravel, React, React Native, Flutter, Livewire, Filament PHP
+-   **Front-End**: HTML5, CSS3, SASS, Bootstrap, Tailwind CSS
+-   **Back-End**: Node.js, Express.js, SQL, PL/pgSQL
+-   **CMS**: WordPress
 
-### Databases
-- **Relational Databases**: MySQL, PostgreSQL
-- **NoSQL Databases**: MongoDB, Redis
-- **Database Management**: SQL, PL/pgSQL
+### Mobile & Game Development
 
-### Operating Systems & Tools
-- **Operating Systems**: Linux, Windows Server
-- **Containerization & Virtualization**: Docker, Kubernetes, VirtualBox
-- **Control Panels**: cPanel, Webmin
-- **Version Control**: Git, GitHub, GitLab
+-   **Cross-Platform Mobile Development**: Flutter, React Native
+-   **Game Development**: Unity3D, C#
+-   **AR/VR/XR Development**: Immersive experiences across platforms
 
-### Networking
-- **Certifications & Skills**: Cisco CCNA, MikroTik
-- **Protocols & Services**: TCP/IP, DNS, DHCP, VPN, Firewalls
+### AI & Machine Learning
 
-### DevOps & Cloud
-- **CI/CD Tools**: Jenkins, GitLab CI/CD
-- **Configuration Management**: Ansible, Terraform
-- **Monitoring & Logging**: ELK Stack (Elasticsearch, Logstash, Kibana), Prometheus, Grafana
-- **Cloud Platforms**: AWS, Google Cloud Platform, Microsoft Azure
+-   **Prompt Engineering & AI Integrations**: SaaS AI model tuning, fine-tuning LLMs, embedding AI in web apps
+-   **Machine Learning Frameworks**: TensorFlow, PyTorch, Scikit-learn
+-   **Data Processing & Analytics**: Pandas, NumPy, Matplotlib, Apache Spark, Tableau, Power BI
 
-### Data Analytics & Machine Learning
-- **Programming Libraries**: Pandas, NumPy, Matplotlib, Scikit-learn, TensorFlow, PyTorch
-- **Visualization Tools**: Tableau, Power BI, Matplotlib, Seaborn
-- **Big Data Processing**: Apache Spark, Hadoop, Hive
-- **Data Science Platforms**: Jupyter Notebooks, Google Colab
+### Cloud & DevOps
 
-### Basic Technologies
-- **Office Suites**: Microsoft Office, Google Workspace
-- **Project Management**: Agile, Scrum, Kanban
-- **Collaboration Tools**: Slack, Microsoft Teams, Trello
-- **Security**: Basic cybersecurity principles, encryption, secure coding practices
+-   **Platforms**: AWS, GCP, Azure
+-   **CI/CD & Automation**: GitLab CI/CD, Jenkins, Terraform, Ansible
+-   **Containerization & Orchestration**: Docker, Kubernetes
+-   **Monitoring & Logging**: ELK Stack, Prometheus, Grafana
 
 ---
 
@@ -178,6 +156,63 @@ Ambitious IT professional specializing as a **top Laravel developer in Banglades
 - Google • Python Automation  
 - BYLCx • Effective Teamwork  
 - BYLCx • Public Speaking  
+
+---
+
+## Technical Expertise
+
+### Programming Languages
+- Python
+- PHP
+- JavaScript
+- R
+- C#
+- Dart
+- C++
+
+### Web Development
+- **Frameworks & Libraries**: Laravel, React, React Native, Flutter, Livewire, Filament PHP
+- **Content Management Systems**: WordPress
+- **Front-End Technologies**: HTML5, CSS3, SASS, Bootstrap, Tailwind CSS
+- **Back-End Technologies**: Node.js, Express.js
+
+### Mobile & Game Development
+- **Cross-Platform Mobile Development**: Flutter, React Native
+- **Game Development**: Unity3D, C#
+- **AR/VR/XR Development**: Immersive experiences across platforms
+
+### Databases
+- **Relational Databases**: MySQL, PostgreSQL
+- **NoSQL Databases**: MongoDB, Redis
+- **Database Management**: SQL, PL/pgSQL
+
+### Operating Systems & Tools
+- **Operating Systems**: Linux, Windows Server
+- **Containerization & Virtualization**: Docker, Kubernetes, VirtualBox
+- **Control Panels**: cPanel, Webmin
+- **Version Control**: Git, GitHub, GitLab
+
+### Networking
+- **Certifications & Skills**: Cisco CCNA, MikroTik
+- **Protocols & Services**: TCP/IP, DNS, DHCP, VPN, Firewalls
+
+### DevOps & Cloud
+- **CI/CD Tools**: Jenkins, GitLab CI/CD
+- **Configuration Management**: Ansible, Terraform
+- **Monitoring & Logging**: ELK Stack (Elasticsearch, Logstash, Kibana), Prometheus, Grafana
+- **Cloud Platforms**: AWS, Google Cloud Platform, Microsoft Azure
+
+### Data Analytics & Machine Learning
+- **Programming Libraries**: Pandas, NumPy, Matplotlib, Scikit-learn, TensorFlow, PyTorch
+- **Visualization Tools**: Tableau, Power BI, Matplotlib, Seaborn
+- **Big Data Processing**: Apache Spark, Hadoop, Hive
+- **Data Science Platforms**: Jupyter Notebooks, Google Colab
+
+### Basic Technologies
+- **Office Suites**: Microsoft Office, Google Workspace
+- **Project Management**: Agile, Scrum, Kanban
+- **Collaboration Tools**: Slack, Microsoft Teams, Trello
+- **Security**: Basic cybersecurity principles, encryption, secure coding practices
 
 ---
 
