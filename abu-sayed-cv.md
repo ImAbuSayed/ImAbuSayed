@@ -17,8 +17,9 @@ Ambitious IT professional with expertise in **web development**, **systems admin
 
 ## Core Skills
 
-- **Programming**: Python, PHP, JavaScript, R  
-- **Web Development**: Laravel, WordPress  
+- **Programming**: Python, PHP, JavaScript, R, C#  
+- **Web Development**: Laravel, WordPress
+- **Cross-Platform Software Development**: Unity, Flutter, React Native
 - **Databases**: MySQL  
 - **OS & Tools**: Linux, Windows Server, Docker, cPanel, Webmin, Kubernetes  
 - **Networking**: Cisco CCNA, MikroTik  
@@ -74,7 +75,7 @@ Ambitious IT professional with expertise in **web development**, **systems admin
 ## Recent Projects
 
 - **Employee Management System with Unity VR Avatar Customization**  
-  *Tech*: Laravel, Livewire, Tailwind CSS, OpenAI API, Unity C#, PHP  
+  *Tech*: Laravel, Livewire, Tailwind CSS, OpenAI API, Unity, C#, PHP  
   [Live Demo](https://japanskill.work)  
 
 - **Interview Management System with Internal Video Conferencing**  
