@@ -54,11 +54,10 @@ Ambitious IT professional specializing as a **top Laravel developer in Banglades
 - Implemented real-time video conferencing using **Jitsi Meet SDK** and **Zoom Meet API**.  
 - Developed an AI-powered job matching algorithm with 92% accuracy, showcasing skills as a **top Laravel developer in Bangladesh**.  
 - Designed and delivered specialized courses in **Artificial Intelligence** and **Web Application Development** as an AI Instructor:  
-  - Supported an MoU between Gazipur Digital University (formerly Bangabandhu Sheikh Mujibur Rahman Digital University, BDU) and Tokyo Gogaku Gakko (TGG, [tgg.tokyo](https://tgg.tokyo/)), signed on April 23, 2024, at Kaliakoir, Gazipur.  
+  - Supported an MoU between Bangladesh Digital University (formerly Bangabandhu Sheikh Mujibur Rahman Digital University, BDU) and Tokyo Gogaku Gakko (TGG, [tgg.tokyo](https://tgg.tokyo/)), signed on April 23, 2024, at Kaliakoir, Gazipur.  
   - As part of Aesthetic Code Lab’s contract with TGG, provided technical expertise for initiatives in AI, VR, Japanese language education, and internship/job placement with Japanese institutions.  
-  - Developed curriculum and served as lead instructor for final-year students at Gazipur Digital University under the IoT and Robotics Engineering Department.  
+  - Developed curriculum and served as lead instructor for final-year students at Bangladesh Digital University under the IoT and Robotics Engineering Department.  
   - Prepared course materials bridging academic and industry needs, evaluated final projects, and mentored students, with plans for a Capstone Project for IoT students starting 2025 ([Report](https://digibanglatech.news/MoU%20signed%20between%20BDU%20and%20Tokyo%20Gogaku%20Gakko)).  
-  - Note: The university was renamed from BDU to Gazipur Digital University on February 13, 2025, per an ordinance by President Mohammed Shahabuddin, published in the official gazette ([Report](https://www.tbsnews.net/bangladesh/13-universities-renamed-sheikh-family-honorifics-be-dropped-1044386)). Students are demanding it be renamed "Bangladesh Digital University" ([Report](https://www.thedailystar.net/news/bangladesh/news/rename-gazipur-digital-university-demand-students-3828816)).  
 - Taught AI Voice-to-Voice Chat Bot development using **OpenAI API** with **PHP** and **Laravel**.  
 - Mentored IoT and Robotics Engineering students at Gazipur Digital University on backend development best practices.  
 - Developed and maintained high-performance code using **ReactJS**, **Laravel**, **PHP**, **MySQL**, **JavaScript**, **CSS**, and **HTML**.  
