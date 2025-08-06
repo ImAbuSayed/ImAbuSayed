@@ -1,5 +1,5 @@
 # Abu Sayed
-**IT Professional | Systems Administrator | Top Laravel Developer | Best Unity Developer | AWS Expert in Bangladesh**
+**IT Professional | Systems Administrator | Unity Developer | AI Engineer | Full-Stack Developer | AWS Expert in Bangladesh**
 
 Dhaka, Bangladesh  
 Phone: +8801925785462 | Email: [hi@abusayed.com.bd](mailto:hi@abusayed.com.bd) | [Website](https://abusayed.com.bd/) | [Blog](https://abu-sayed.medium.com/) | [LinkedIn](https://bd.linkedin.com/in/imabusayed)
@@ -8,7 +8,7 @@ Phone: +8801925785462 | Email: [hi@abusayed.com.bd](mailto:hi@abusayed.com.bd) |
 
 ## Career Objective
 
-Ambitious IT professional specializing as a **top Laravel developer in Bangladesh** and **best Unity developer in Bangladesh**, with expertise in web development, systems administration, computer networking, and DevOps tools like **AWS** and **Jenkins**. Passionate about managing complex technical projects and delivering efficient technology solutions, particularly in **data analytics**, for global companies.
+An ambitious and versatile IT professional with proven expertise as a Full-Stack Developer and AI Engineer. Passionate about architecting and deploying complex, scalable solutions using modern stacks like Laravel, Flutter, and the TALL stack. Seeking to leverage advanced skills in software development, AI integration, and DevOps to solve challenging problems for global companies.
 
 ---
 
@@ -28,7 +28,7 @@ Ambitious IT professional specializing as a **top Laravel developer in Banglades
 -   **AR/VR/XR Development**: Immersive experiences across platforms
 
 ### AI & Machine Learning
-
+- **AI Integration**: **OpenAI API (GPT, Whisper etc.)**, Fine-tuning LLMs, Embedding AI in web/mobile apps
 -   **Prompt Engineering & AI Integrations**: SaaS AI model tuning, fine-tuning LLMs, embedding AI in web apps
 -   **Machine Learning Frameworks**: TensorFlow, PyTorch, Scikit-learn
 -   **Data Processing & Analytics**: Pandas, NumPy, Matplotlib, Apache Spark, Tableau, Power BI
@@ -43,6 +43,13 @@ Ambitious IT professional specializing as a **top Laravel developer in Banglades
 ---
 
 ## Professional Experience
+
+### AI Trainer/Lecturer @ Gazipur Digital University (Contract)
+*May 2024 - Present | Kaliakair, Gazipur, Bangladesh*
+* Serving as the lead technical expert and instructor as part of a strategic partnership between **Aesthetic Code Lab (ACL)**, **Tokyo Gogaku Gakko (TGG)**, and the university.
+* Developed and taught specialized courses in **Artificial Intelligence** and **Web Application Development** to final-year students in the IoT and Robotics Engineering Department.
+* Led instruction on advanced topics, including AI integration and development using the **OpenAI API** with **PHP** and **Laravel**.
+* Created comprehensive course materials, conducted student evaluations, assessed final projects, and mentored students on industry-standard development practices.
 
 ### Backend Developer @ Aesthetic Code Lab (May 2024 - Present)
 
@@ -110,13 +117,29 @@ Ambitious IT professional specializing as a **top Laravel developer in Banglades
 
 ## Recent Projects
 
-- **Employee Management System with Unity VR Avatar Customization (AI Integrated Job Site)**  
-  *Tech*: Laravel, Livewire, Tailwind CSS, OpenAI API, Unity, C# 
-  [Live Demo](https://japanskill.work)  
+### Ryūgaku Mensetsu System (Online Japanese Conversation Test Platform)
+* Architected and developed a comprehensive online testing platform for **Tokyo Gogaku Gakko (TGG)** to conduct secure, remote Japanese language proficiency interviews with real-time proctoring.
+* Engineered an AI-powered practice exam system with voice recognition (**OpenAI Whisper API**) and camera verification to ensure test integrity, reducing manual evaluation time by **70%**.
+* **Tech**: **TALL Stack (Laravel, Livewire, Alpine.js, Tailwind CSS)**, MySQL, OpenAI Whisper API, WebRTC, JavaScript.
+* [**Live Dev Link**](https://rms-dev.a-cloud.tech/)
 
-- **Interview Management System with Internal Video Conferencing**  
-  *Tech*: Laravel, Livewire, Tailwind CSS, Jitsi Meet, Zoom Meet API  
-  [Live Demo](https://interbrew.site)  
+### Tokutei Hope Bridge (Japanese Skill Learning Platform)
+* Led the technical execution of a sophisticated mobile learning app for **Tokyo Gogaku Gakko (TGG)**, handling both backend and frontend development.
+* Architected the core backend using **Laravel** to create robust RESTful APIs for user authentication, course management, and subscription handling.
+* Took significant ownership of the **Flutter** frontend, building UI components, engineering client-side logic for API consumption, and integrating the Apple Pay workflow.
+* **Tech**: **Laravel (Backend)**, **Flutter/Dart (Frontend)**, MySQL, Apple Pay, AWS, Docker, Jenkins.
+
+### AI Automated Job Matching Website (with VR Integration)
+* Developed a scalable employee management system that integrates **Unity VR** for avatar customization, enhancing virtual engagement for over 500 employees.
+* **Tech**: Laravel, Livewire, Tailwind CSS, OpenAI API, **Unity**, **C#**.
+* [**Live Demo**](https://japanskill.work)
+
+### Interview Management System
+* Built a secure, efficient platform for remote interviews with internal video conferencing, reducing reliance on external tools and improving process control.
+* **Tech**: Laravel, Livewire, Tailwind CSS, **Jitsi Meet**, Zoom Meet API.
+* [**Live Demo**](https://interbrew.site)
+
+### Others
 
 - **Event Management System**  
   *Tech*: Laravel, Livewire, Tailwind CSS  
