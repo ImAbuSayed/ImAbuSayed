@@ -1,5 +1,5 @@
 # Abu Sayed
-**IT Professional | Systems Administrator | Unity Developer | AI Engineer | Full-Stack Developer | AWS Expert in Bangladesh**
+**IT Professional | Systems Administrator | Full-Stack Developer - Unity, FLutter, React, NextJS, React Native and Laravel | AI Engineer | AWS Expert in Bangladesh**
 
 Dhaka, Bangladesh  
 Phone: +8801925785462 | Email: [hi@abusayed.com.bd](mailto:hi@abusayed.com.bd) | [Website](https://abusayed.com.bd/) | [Blog](https://abu-sayed.medium.com/) | [LinkedIn](https://bd.linkedin.com/in/imabusayed)
