@@ -51,7 +51,7 @@ An ambitious and versatile IT professional with proven expertise as a Full-Stack
 * Led instruction on advanced topics, including AI integration and development using the **OpenAI API** with **PHP** and **Laravel**.
 * Created comprehensive course materials, conducted student evaluations, assessed final projects, and mentored students on industry-standard development practices.
 
-### Backend Developer @ Aesthetic Code Lab (May 2024 - Present)
+### Full Stack Developer @ Aesthetic Code Lab (May 2024 - Present)
 
 - Led software development of three enterprise-scale platforms serving production traffic:  
   - [Employment Management System with Unity VR Avatar Customization](https://japanskill.work)  
