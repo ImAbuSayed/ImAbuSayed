@@ -44,7 +44,7 @@ An ambitious and versatile IT professional with proven expertise as a Full-Stack
 
 ## Professional Experience
 
-### AI Trainer/Lecturer @ University of Frontier Technology, Bangladesh (Contract)
+### AI Trainer @ University of Frontier Technology, Bangladesh (Contract)
 *May 2024 - Present | Kaliakair, Gazipur, Bangladesh*
 * Serving as the lead technical expert and instructor as part of a strategic partnership between **Aesthetic Code Lab (ACL)**, **Tokyo Gogaku Gakko (TGG)**, and the university.
 * Developed and taught specialized courses in **Artificial Intelligence** and **Web Application Development** to final-year students in the IoT and Robotics Engineering Department.
