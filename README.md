@@ -245,5 +245,5 @@ An ambitious and versatile IT professional with proven expertise as a Full-Stack
 - **Interests**: Technology, research, listening podcasts, singing, gaming  
 
 ---
-*[🥽 Dive into my 3D Music Virtual City: Explore Releases](https://albums.abusayed.com.bd/3d-city)*
-*Click to view the [Digital Version of This CV](https://imabusayed.github.io/abu-sayed-dev-portfolio/)*
+- 🥽 *Dive into my 3D Music Virtual City:* [Explore Releases](https://albums.abusayed.com.bd/3d-city)
+- *Click to view the [Digital Version of This CV](https://imabusayed.github.io/abu-sayed-dev-portfolio/)*
