@@ -2,7 +2,7 @@
 **IT Professional | Systems Administrator | Full-Stack Developer - Unity, FLutter, React, NextJS, React Native and Laravel | AI Engineer | AWS Expert in Bangladesh**
 
 Dhaka, Bangladesh  
-Phone: +8801925785462 | Email: [hi@abusayed.com.bd](mailto:hi@abusayed.com.bd) | [Website](https://abusayed.com.bd/) | [Blog](https://abu-sayed.medium.com/) | [LinkedIn](https://bd.linkedin.com/in/imabusayed)
+Phone: +8801925785462 | Email: [hi@abusayed.com.bd](mailto:hi@abusayed.com.bd) | [Website](https://abusayed.com.bd/) | [Blog](https://abu-sayed.medium.com/) | [LinkedIn](https://bd.linkedin.com/in/imabusayed) 
 
 ---
 
@@ -245,5 +245,5 @@ An ambitious and versatile IT professional with proven expertise as a Full-Stack
 - **Interests**: Technology, research, listening podcasts, singing, gaming  
 
 ---
-
+*[🥽 Dive into my 3D Music Virtual City: Explore Releases](https://albums.abusayed.com.bd/3d-city)*
 *Click to view the [Digital Version of This CV](https://imabusayed.github.io/abu-sayed-dev-portfolio/)*
