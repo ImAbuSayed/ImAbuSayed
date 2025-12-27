@@ -123,11 +123,12 @@ An ambitious and versatile IT professional with proven expertise as a Full-Stack
 * **Tech**: **TALL Stack (Laravel, Livewire, Alpine.js, Tailwind CSS)**, MySQL, OpenAI Whisper API, WebRTC, JavaScript.
 * [**Live Dev Link**](https://rms-dev.a-cloud.tech/)
 
-### Tokutei Hope Bridge (Japanese Skill Learning Platform)
-* Led the technical execution of a sophisticated mobile learning app for **Tokyo Gogaku Gakko (TGG)**, handling both backend and frontend development.
+### TOKUTEI GINOU GAKKO (formerly, Tokutei Hope Bridge) (Japanese Skill Learning Platform)
+* Led the technical execution of a sophisticated mobile learning app for TOKUTEI GINOU GAKKO, formerly **Tokyo Gogaku Gakko (TGG)**, handling both backend and frontend development.
 * Architected the core backend using **Laravel** to create robust RESTful APIs for user authentication, course management, and subscription handling.
 * Took significant ownership of the **Flutter** frontend, building UI components, engineering client-side logic for API consumption, and integrating the Apple Pay workflow.
 * **Tech**: **Laravel (Backend)**, **Flutter/Dart (Frontend)**, MySQL, Apple Pay, AWS, Docker, Jenkins.
+* [**Google Play Store**](https://play.google.com/store/apps/details?id=tokyo.tgg.stepup&hl=af) | [**Apple store**](https://apps.apple.com/mn/app/tokutei-ginou-gakko/id6747668375) 
 
 ### AI Automated Job Matching Website (with VR Integration)
 * Developed a scalable employee management system that integrates **Unity VR** for avatar customization, enhancing virtual engagement for over 500 employees.
