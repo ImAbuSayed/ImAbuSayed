@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=280&text=Abu%20Sayed&fontAlign=50&fontAlignY=40&color=0:0d1117,50:00d26a,100:0d1117&fontColor=00d26a&fontSize=60&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20AI%20Engineer%20%7C%20Musician%20%7C%20Creator&descAlign=50&descAlignY=62&descSize=18" alt="Abu Sayed — Top Full Stack Developer in Bangladesh" />
 
 <!-- TYPING ANIMATION -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2800&pause=900&color=00D26A&center=true&vCenter=true&multiline=false&width=900&lines=%F0%9F%9A%80+Top+Full+Stack+Developer+in+Bangladesh;%F0%9F%A4%96+AI+Engineer+%7C+OpenAI+%7C+LLM+Specialist;%E2%98%81%EF%B8%8F+AWS+Cloud+Expert+%7C+DevOps+Engineer;%F0%9F%8E%AE+Unity+3D+%7C+VR%2FXR+Developer;%F0%9F%93%B1+Flutter+%7C+React+Native+%7C+Laravel+Expert;%F0%9F%8E%B5+Musician+%7C+Songwriter+%7C+Record+Label+Founder;%F0%9F%8C%8D+Available+for+Remote+Work+Worldwide" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2800&pause=900&color=00D26A&center=true&vCenter=true&multiline=false&width=900&lines=%F0%9F%9A%80+Top+Full+Stack+Developer+in+the+World;%F0%9F%A4%96+AI+Engineer+%7C+OpenAI+%7C+LLM+Specialist;%E2%98%81%EF%B8%8F+AWS+Cloud+Expert+%7C+DevOps+Engineer;%F0%9F%8E%AE+Unity+3D+%7C+VR%2FXR+Developer;%F0%9F%93%B1+Flutter+%7C+React+Native+%7C+Laravel+Expert;%F0%9F%8E%B5+Musician+%7C+Songwriter+%7C+Record+Label+Founder;%F0%9F%8C%8D+Available+for+Remote+Work+Worldwide" alt="Typing SVG - Abu Sayed — Top Full Stack Developer in the World" />
 
 <br/>
 
