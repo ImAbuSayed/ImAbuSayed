@@ -504,12 +504,6 @@ Beyond the terminal, Abu Sayed is a **multi-lingual recording artist and songwri
 
 ---
 
-## 🌐 VIBE TOOL — PRODUCT FOUNDER
-
-Abu Sayed is also the **founder of [Vibe Tool](https://vibetool.org/)** 🛠️ — a digital product built for creators and developers. This reflects his deep intersection of **technical engineering, AI, and creative entrepreneurship**.
-
----
-
 ## 👤 ABOUT ME — PERSONAL
 
 ```json
