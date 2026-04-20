@@ -57,7 +57,7 @@ Fun Fact    : Built a 3D Music Virtual City 🥽🎵 & founded a record label �
 
 I am a **multi-disciplinary creator, developer, and musician** based in Dhaka, Bangladesh, recognized as one of the **top full stack developers** and **AI engineers** in Bangladesh. I build scalable digital products for startups, agencies, and enterprises worldwide — from AI-powered SaaS platforms and VR systems to cross-platform mobile apps and enterprise web solutions.
 
-Beyond code, I am the **founder of [Vibe Tool](https://vibetool.org/)**, a prolific **songwriter and recording artist** whose music spans **Bangla, Hindi, Arabic, Punjabi, and English** — distributed globally on Spotify, Apple Music, and more.
+Beyond code, I am the founder of Vibe Tool, a prolific **songwriter and recording artist** whose music spans **Bangla, Hindi, Arabic, Punjabi, and English** — distributed globally on Spotify, Apple Music, and more.
 
 > *"Whether you need a Laravel architect, an AI integration specialist, a Unity VR developer, or a Flutter mobile engineer — I build things that scale, perform, and impress."*
 
