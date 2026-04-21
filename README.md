@@ -23,6 +23,9 @@
 <a href="mailto:hi@abusayed.com.bd"><img src="https://img.shields.io/badge/📧 Email-Hire Me-00d26a?style=for-the-badge" /></a>
 <a href="https://bd.linkedin.com/in/imabusayed"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://abu-sayed.medium.com/"><img src="https://img.shields.io/badge/Medium-Read Blog-000000?style=for-the-badge&logo=medium&logoColor=white" /></a>
+<a href="https://open.spotify.com/artist/6vnjuWLcV3nHwIFeozztMv"><img src="https://img.shields.io/badge/🎧 Spotify-Listen-1DB954?style=for-the-badge&logo=spotify&logoColor=white" /></a>
+<a href="https://music.apple.com/ae/artist/abu-sayed/1622976966"><img src="https://img.shields.io/badge/🍎 Apple%20Music-Listen-FA243C?style=for-the-badge&logo=applemusic&logoColor=white" /></a>
+
 
 <br/><br/>
 
