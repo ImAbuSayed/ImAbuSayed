@@ -561,6 +561,41 @@ Beyond the terminal, Abu Sayed is a **multi-lingual recording artist and songwri
 
 <div align="center">
 
+## 🕹️ INTERACTIVE MUSIC GAMING UNIVERSE
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=00D26A&center=true&vCenter=true&multiline=false&width=800&lines=%F0%9F%8E%AE+Step+Into+The+Abu+Sayed+Gaming+Universe;%F0%9F%8E%8E+Drive.+Shoot.+Listen.+Rank+Up!;%F0%9F%A7%A9+Match+3+Albums.+Create+Music.+Boost+Your+Score!" alt="Gaming Typing Animation" />
+
+<br/>
+
+<img src="https://media.giphy.com/media/RhH3DExbN0IuY/giphy.gif" width="600" alt="Retro Synthwave Driving Game Animation" style="border-radius: 10px;" />
+
+<br/><br/>
+
+### 🏎️ **3D Music Virtual City**
+*Drive through the immersive digital streets, discover my released albums, take down enemies in the city, rack up points, and climb to the top of the leaderboard!*
+<br/><br/>
+<a href="https://albums.abusayed.com.bd/3d-city">
+  <img src="https://img.shields.io/badge/🎮_PLAY_NOW-3D_Virtual_City-00d26a?style=for-the-badge" alt="Play 3D City" />
+</a>
+
+<br/><br/>
+
+### 🧩 **Album Odyssey**
+*Swap adjacent tiles to match 3 or more identical albums. Matches create music and boost your score in this rhythmic puzzle experience!*
+<br/><br/>
+<a href="https://albums.abusayed.com.bd/album-odyssey">
+  <img src="https://img.shields.io/badge/🧩_PLAY_NOW-Album_Odyssey-FF2D20?style=for-the-badge" alt="Play Album Odyssey" />
+</a>
+
+<br/><br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=00d26a" width="30%" />
+</div>
+
+
+---
+
+<div align="center">
+
 ### 💬 A Word From Abu Sayed
 
 *"I don't just write code — I architect experiences, engineer intelligence, and create digital worlds. Whether it's an enterprise Laravel system, an AI-powered mobile app, a Unity VR environment, or a song released globally — I bring the same obsession for craft and quality to everything I build."*
