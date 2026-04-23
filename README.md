@@ -567,7 +567,7 @@ Beyond the terminal, Abu Sayed is a **multi-lingual recording artist and songwri
 
 <br/>
 
-<img src="https://media.giphy.com/media/RhH3DExbN0IuY/giphy.gif" width="600" alt="Retro Synthwave Driving Game Animation" style="border-radius: 10px;" />
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExamhhMzJ2eGFkeDZ2Zm01N3ZncWo3cndkYTRteW5scmozd3JlYXR4cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qDQj6tO9V3Fas7fkkP/giphy.gif" width="600" alt="Retro Synthwave Driving Game Animation" style="border-radius: 10px;" />
 
 <br/><br/>
 
