@@ -9,10 +9,10 @@
 <br/>
 
 <!-- PROFILE VIEWS + SOCIAL PROOF -->
-<img src="https://komarev.com/ghpvc/?username=imabusayed&label=Profile+Views&color=00d26a&style=for-the-badge" alt="Profile views" />
+<!-- <img src="https://komarev.com/ghpvc/?username=imabusayed&label=Profile+Views&color=00d26a&style=for-the-badge" alt="Profile views" />
 &nbsp;
 <img src="https://img.shields.io/github/followers/imabusayed?label=Followers&style=for-the-badge&color=00d26a&labelColor=0d1117" alt="Followers" />
-&nbsp;
+&nbsp; -->
 <a href="https://buymeacoffee.com/imsayed/commissions/21663"><img src="https://img.shields.io/badge/Open%20to%20Work-Remote%20%7C%20Worldwide-00d26a?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Open to Work" /></a>
 
 <br/><br/>
