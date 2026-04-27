@@ -14,6 +14,9 @@
 <img src="https://img.shields.io/github/followers/imabusayed?label=Followers&style=for-the-badge&color=00d26a&labelColor=0d1117" alt="Followers" />
 &nbsp; -->
 <a href="https://buymeacoffee.com/imsayed/commissions/21663"><img src="https://img.shields.io/badge/Open%20to%20Work-Remote%20%7C%20Worldwide-00d26a?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Open to Work" /></a>
+<a href="https://imabusayed.github.io/ImAbuSayed/">
+  <img src="https://img.shields.io/badge/🩸%20Enter%20the%20Code%20Vault-Explore%20My%20GitHub-8b0000?style=for-the-badge&logo=github&logoColor=F5E6C8&labelColor=0a0a0a" alt="Vampire GitHub Button" />
+</a>
 
 <br/><br/>
 
