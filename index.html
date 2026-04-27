@@ -24,6 +24,10 @@ document.dispatchEvent(new Event('motionReady'));
 
 <!-- Anime.js -->
 <script src="https://cdn.jsdelivr.net/npm/animejs/dist/bundles/anime.umd.min.js"></script>
+<script>
+// Anime.js v4 UMD exposes { animate, ... } — normalise to window.anime() pattern
+window._anime = (typeof anime !== 'undefined') ? anime : null;
+</script>
 
 <style>
 /* ═══════════════════════════════════════════
@@ -1346,8 +1350,15 @@ footer::before {
   color: var(--bone);
 }
 
-/* Glow text utility */
-.glow-red {
+/* Ensure hero content is visible — JS will animate from opacity:0 */
+.hero-content > * {
+  opacity: 0;
+}
+/* If JS is disabled or slow, show after 3s */
+@media (prefers-reduced-motion: reduce) {
+  .hero-content > * { opacity: 1 !important; transform: none !important; }
+  .reveal { opacity: 1 !important; transform: none !important; }
+}
   text-shadow: 0 0 20px var(--blood), 0 0 40px var(--crimson);
 }
 
@@ -2038,15 +2049,16 @@ class Particle {
     if (this.life <= 0) this.reset();
   }
   draw() {
+    const r = Math.max(0.1, this.size * this.life);
     ctx.save();
-    ctx.globalAlpha = this.life * 0.4;
+    ctx.globalAlpha = Math.max(0, this.life) * 0.4;
     if (this.type === 'blood') {
       ctx.fillStyle = `hsl(${Math.random() > 0.5 ? 0 : 350}, 80%, ${30 + Math.random()*20}%)`;
     } else {
       ctx.fillStyle = `rgba(40, 10, 15, ${this.life * 0.3})`;
     }
     ctx.beginPath();
-    ctx.arc(this.x, this.y, this.size, 0, Math.PI * 2);
+    ctx.arc(this.x, this.y, r, 0, Math.PI * 2);
     ctx.fill();
     ctx.restore();
   }
@@ -2082,7 +2094,7 @@ function animateCanvas() {
     ctx.globalAlpha = d.life * 0.8;
     ctx.fillStyle = 'rgba(180,0,0,0.8)';
     ctx.beginPath();
-    ctx.arc(d.x, d.y, d.size * d.life, 0, Math.PI * 2);
+    ctx.arc(d.x, d.y, Math.max(0.1, d.size * d.life), 0, Math.PI * 2);
     ctx.fill();
     ctx.restore();
     if (d.life <= 0) bloodDrops.splice(i, 1);
@@ -2099,64 +2111,62 @@ window.addEventListener('scroll', () => {
 });
 
 // ═══════════════════════
-// HERO ENTRANCE — ANIME.JS
+// ANIME.JS SAFE WRAPPER
+// Handles both v3 (anime is callable) and v4 (anime.animate)
+// ═══════════════════════
+const _animeLib = window.anime || {};
+const _animate = typeof _animeLib === 'function' ? _animeLib : (_animeLib.animate || null);
+const _stagger = _animeLib.stagger || ((n) => (el, i) => i * n);
+
+function animeRun(opts) {
+  if (_animate) {
+    try { _animate(opts); } catch(e) { console.warn('anime error', e); }
+  } else {
+    // CSS fallback — just show elements
+    const targets = typeof opts.targets === 'string'
+      ? document.querySelectorAll(opts.targets)
+      : opts.targets;
+    if (targets) {
+      const els = targets.length !== undefined ? targets : [targets];
+      els.forEach(el => {
+        el.style.transition = `opacity 0.8s ease, transform 0.8s ease`;
+        el.style.opacity = '1';
+        el.style.transform = 'translateY(0)';
+      });
+    }
+  }
+}
+
+// ═══════════════════════
+// HERO ENTRANCE
 // ═══════════════════════
 function runHeroAnimations() {
-  anime({
-    targets: '#hero-label',
-    opacity: [0, 1],
-    translateY: [-20, 0],
-    duration: 1000,
-    easing: 'easeOutExpo',
-    delay: 300
-  });
-  anime({
-    targets: '#hero-name',
-    opacity: [0, 1],
-    translateY: [40, 0],
-    duration: 1200,
-    easing: 'easeOutExpo',
-    delay: 600
-  });
-  anime({
-    targets: '#hero-sub',
-    opacity: [0, 1],
-    translateY: [20, 0],
-    duration: 1000,
-    easing: 'easeOutExpo',
-    delay: 1100
-  });
-  anime({
-    targets: '#hero-btns',
-    opacity: [0, 1],
-    translateY: [20, 0],
-    duration: 800,
-    easing: 'easeOutExpo',
-    delay: 1600
-  });
-  anime({
-    targets: '#hero-links',
-    opacity: [0, 1],
-    translateY: [10, 0],
-    duration: 800,
-    easing: 'easeOutExpo',
-    delay: 2000
+  // Make hero elements visible immediately as CSS fallback
+  ['#hero-label','#hero-name','#hero-sub','#hero-btns','#hero-links'].forEach((sel, i) => {
+    const el = document.querySelector(sel);
+    if (el) {
+      el.style.opacity = '0';
+      el.style.transform = 'translateY(20px)';
+      setTimeout(() => {
+        el.style.transition = 'opacity 0.8s ease, transform 0.8s ease';
+        el.style.opacity = '1';
+        el.style.transform = 'translateY(0)';
+      }, 300 + i * 300);
+    }
   });
 
-  // Drips
-  const drips = document.querySelectorAll('.drip');
-  drips.forEach((drip, i) => {
+  animeRun({ targets: '#hero-label', opacity: [0,1], translateY: [-20,0], duration: 1000, easing: 'easeOutExpo', delay: 300 });
+  animeRun({ targets: '#hero-name', opacity: [0,1], translateY: [40,0], duration: 1200, easing: 'easeOutExpo', delay: 600 });
+  animeRun({ targets: '#hero-sub', opacity: [0,1], translateY: [20,0], duration: 1000, easing: 'easeOutExpo', delay: 1100 });
+  animeRun({ targets: '#hero-btns', opacity: [0,1], translateY: [20,0], duration: 800, easing: 'easeOutExpo', delay: 1600 });
+  animeRun({ targets: '#hero-links', opacity: [0,1], translateY: [10,0], duration: 800, easing: 'easeOutExpo', delay: 2000 });
+
+  // Drips via CSS animation — no anime needed
+  document.querySelectorAll('.drip').forEach((drip, i) => {
     const finalH = parseInt(drip.style.height) || 80;
     drip.style.height = '0px';
-    anime({
-      targets: drip,
-      height: [0, finalH],
-      duration: 1500 + Math.random() * 1000,
-      easing: 'easeInQuad',
-      delay: 500 + i * 100,
-      loop: true,
-      direction: 'alternate'
-    });
+    drip.style.transition = `height ${1.5 + Math.random()}s ease-in ${0.5 + i*0.1}s`;
+    setTimeout(() => { drip.style.height = finalH + 'px'; }, 100);
   });
 }
 runHeroAnimations();
@@ -2266,7 +2276,7 @@ document.querySelectorAll('.skill-card, .project-card').forEach(card => {
 // ═══════════════════════
 document.querySelectorAll('.stat-num').forEach(el => {
   el.addEventListener('mouseenter', () => {
-    anime({
+    animeRun({
       targets: el,
       color: ['#dc143c', '#ff2040', '#8b0000', '#dc143c'],
       duration: 400,
@@ -2316,21 +2326,30 @@ const titleObserver = new IntersectionObserver(entries => {
     if (entry.isIntersecting) {
       const title = entry.target;
       const text = title.textContent;
-      title.innerHTML = text.split('').map((ch, i) => 
-        ch === ' ' ? ' ' : `<span style="display:inline-block;opacity:0">${ch}</span>`
+      title.innerHTML = text.split('').map((ch) => 
+        ch === ' ' ? ' ' : `<span style="display:inline-block;opacity:0;transform:translateY(20px)">${ch}</span>`
       ).join('');
-      anime({
-        targets: title.querySelectorAll('span'),
+      const spans = title.querySelectorAll('span');
+      animeRun({
+        targets: spans,
         opacity: [0, 1],
         translateY: [20, 0],
-        delay: anime.stagger(30),
+        delay: _stagger(30),
         duration: 600,
         easing: 'easeOutExpo'
+      });
+      // CSS fallback for each span
+      spans.forEach((sp, i) => {
+        setTimeout(() => {
+          sp.style.transition = 'opacity 0.4s ease, transform 0.4s ease';
+          sp.style.opacity = '1';
+          sp.style.transform = 'translateY(0)';
+        }, i * 30);
       });
       titleObserver.unobserve(title);
     }
   });
-}, { threshold: 0.5 });
+}, { threshold: 0.3 });
 document.querySelectorAll('.section-title').forEach(t => titleObserver.observe(t));
 
 // ═══════════════════════
