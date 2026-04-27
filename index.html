@@ -715,6 +715,18 @@ section {
   opacity: 0.15;
 }
 @keyframes spin { to { transform: rotate(360deg); } }
+.avatar-img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center;
+  z-index: 2;
+  filter: drop-shadow(0 0 20px var(--blood));
+  transition: transform 0.5s ease;
+}
+.avatar-frame:hover .avatar-img {
+  transform: scale(1.1);
+}
 .avatar-initials {
   font-family: var(--font-title);
   font-size: 5rem;
@@ -2078,7 +2090,7 @@ footer::before {
           <div class="avatar-ring-2"></div>
           <div class="avatar-ring"></div>
           <div class="avatar-frame-inner">
-            <span class="avatar-initials">AS</span>
+            <img src="https://i0.wp.com/abusayed.com.bd/wp-content/uploads/2025/10/Abu-Sayed-Music-Producer.webp?fit=1500%2C1500&ssl=1" alt="Abu Sayed - Vampire Sayed" title="Abu Sayed - a.k.a. The Vampire Sayed" class="avatar-img">
           </div>
         </div>
       </div>
