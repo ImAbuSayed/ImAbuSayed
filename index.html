@@ -2003,7 +2003,12 @@ footer::before {
 </style>
 </head>
 <body>
-
+<!--
+  Copyright (c) 2026 Abu Sayed.
+  Reuse, modification, and distribution are permitted only with attribution to Abu Sayed
+  and a link to https://github.com/ImAbuSayed, with no additional restrictions applied.
+  See LICENSE.md for the complete license text.
+-->
 <!-- Custom Cursor -->
 <div id="cursor"></div>
 <div id="cursor-trail"></div>
@@ -2535,6 +2540,13 @@ footer::before {
     </div>
   </div>
 </section>
+
+<!--
+  Copyright (c) 2026 Abu Sayed.
+  Reuse, modification, and distribution are permitted only with attribution to Abu Sayed
+  and a link to https://github.com/ImAbuSayed, with no additional restrictions applied.
+  See LICENSE.md for the complete license text.
+-->
 
 <!-- ══════════════════════════════ MUSIC ══════════════════════════════ -->
 <section id="music">
@@ -3081,14 +3093,34 @@ footer::before {
   </div>
 </div>
 
+<!--
+  Copyright (c) 2026 Abu Sayed.
+  Reuse, modification, and distribution are permitted only with attribution to Abu Sayed
+  and a link to https://github.com/ImAbuSayed, with no additional restrictions applied.
+  See LICENSE.md for the complete license text.
+-->
+     
 <footer>
-  <p class="footer-text">⚰ <span class="footer-name">Vampire Sayed</span> · Abu Sayed · Dhaka, Bangladesh 🇧🇩 · Built with blood, code & obsession ⚰</p>
+  <p class="footer-text">
+    ⚰ <span class="footer-name">Vampire Sayed</span> · Abu Sayed · Dhaka, Bangladesh 🇧🇩 · Built with blood, code & obsession ⚰
+    <span class="footer-sitemaps" style="margin-left: 12px; display: inline-flex; gap: 10px; vertical-align: middle;">
+      <a href="https://imabusayed.github.io/ImAbuSayed/sitemap.html" title="Profile Sitemap (ImAbuSayed)" class="sitemap-link-icon" style="text-decoration: none; transition: transform 0.3s ease; display: inline-block;">🗺️</a>
+      <a href="https://imabusayed.github.io/abu-sayed-dev-portfolio/sitemap.html" title="Portfolio Sitemap (abu-sayed-dev-portfolio)" class="sitemap-link-icon" style="text-decoration: none; transition: transform 0.3s ease; display: inline-block;">🧭</a>
+    </span>
+  </p>
 </footer>
+
 
 <!-- ═══════════════════════════════════════════
    JAVASCRIPT — ANIMATIONS & INTERACTIONS
 ═══════════════════════════════════════════ -->
 <style>
+.sitemap-link-icon:hover {
+  transform: scale(1.4) rotate(10deg);
+  filter: drop-shadow(0 0 5px var(--blood, #ff3333));
+}
+
+     
 @keyframes drip1 {
   0%, 100% { height: 0; opacity: 1; }
   50% { opacity: 1; }
