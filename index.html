@@ -640,6 +640,9 @@ section {
   line-height: 1.1;
   margin-bottom: 1rem;
   text-shadow: 0 0 40px rgba(220,20,60,0.2);
+  word-break: keep-all;
+  overflow-wrap: normal;
+  hyphens: none;
 }
 
 .section-divider {
@@ -1975,8 +1978,6 @@ footer::before {
   .hero-content > * { opacity: 1 !important; transform: none !important; }
   .reveal { opacity: 1 !important; transform: none !important; }
 }
-  text-shadow: 0 0 20px var(--blood), 0 0 40px var(--crimson);
-}
 
 /* Blood splatter decoration */
 .splatter {
@@ -2083,7 +2084,7 @@ footer::before {
       </div>
       <div>
         <span class="section-label">// Identity.yaml</span>
-        <h2 class="section-title">Who Is Vampire Sayed?</h2>
+        <h2 class="section-title">Who Is Vampire&nbsp;Sayed?</h2>
         <div class="section-divider"></div>
 
         <div class="identity-card">
@@ -3360,10 +3361,12 @@ const titleObserver = new IntersectionObserver(entries => {
     if (entry.isIntersecting) {
       const title = entry.target;
       const text = title.textContent;
-      title.innerHTML = text.split('').map((ch) => 
-        ch === ' ' ? ' ' : `<span style="display:inline-block;opacity:0;transform:translateY(20px)">${ch}</span>`
-      ).join('');
-      const spans = title.querySelectorAll('span');
+      title.innerHTML = text.split(' ').map((word) => {
+        return `<span style="display:inline-block;white-space:nowrap;">${word.split('').map(ch => 
+          `<span style="display:inline-block;opacity:0;transform:translateY(20px)">${ch}</span>`
+        ).join('')}</span>`;
+      }).join(' ');
+      const spans = title.querySelectorAll('span span');
       animeRun({
         targets: spans,
         opacity: [0, 1],
