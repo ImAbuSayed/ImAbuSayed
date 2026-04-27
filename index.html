@@ -2090,13 +2090,13 @@ footer::before {
           <div class="avatar-ring-2"></div>
           <div class="avatar-ring"></div>
           <div class="avatar-frame-inner">
-            <img src="https://i0.wp.com/abusayed.com.bd/wp-content/uploads/2025/10/Abu-Sayed-Music-Producer.webp?fit=1500%2C1500&ssl=1" alt="Abu Sayed - Vampire Sayed" title="Abu Sayed - a.k.a. The Vampire Sayed" class="avatar-img">
+            <img src="https://i0.wp.com/abusayed.com.bd/wp-content/uploads/2025/10/Abu-Sayed-Music-Producer.webp?fit=1500%2C1500&ssl=1" alt="Abu Sayed - Vampire Sayed" title="Abu Sayed - a.k.a. The Vampire Sayed" class="avatar-img" onclick="openThroneModal()" style="cursor: pointer;">
           </div>
         </div>
       </div>
       <div>
         <span class="section-label">// Identity.yaml</span>
-        <h2 class="section-title">Who Is Vampire&nbsp;Sayed?</h2>
+        <h2 class="section-title">Who Is <span style="white-space: nowrap">Vampire Sayed?</span></h2>
         <div class="section-divider"></div>
 
         <div class="identity-card">
@@ -3019,6 +3019,49 @@ footer::before {
   </div>
 </div>
 
+<!-- ══════════════════════════════ THRONE MODAL ══════════════════════════════ -->
+<div class="throne-modal" id="throne-modal" aria-hidden="true">
+  <div class="throne-modal-backdrop" onclick="closeThroneModal()"></div>
+  <div class="bat-container" id="bat-container"></div>
+  <div class="throne-modal-panel" role="dialog" aria-modal="true" aria-labelledby="throne-modal-title">
+    <button type="button" class="modal-close throne-close" onclick="closeThroneModal()">×</button>
+    <div class="throne-image-wrapper">
+      <img src="assets/images/Vampire-Sayed-in-gothic-throne-room.webp" alt="Vampire Sayed in Gothic Throne Room" class="throne-image">
+      <div class="throne-image-overlay"></div>
+    </div>
+    <div class="throne-actions">
+      <h2 id="throne-modal-title" class="blood-text">The Vampire's Lair</h2>
+      <p class="throne-subtitle">Step into the shadows and explore the arsenal.</p>
+      <div class="blood-buttons">
+        <a href="https://abusayed.com.bd/contact/" class="blood-btn">
+          <span class="blood-btn-text">⚡ Summon Vampire Sayed</span>
+          <span class="blood-drip"></span><span class="blood-drip"></span><span class="blood-drip"></span>
+        </a>
+        <a href="https://albums.abusayed.com.bd/about#discography-highlights" class="blood-btn" onclick="closeThroneModal()">
+          <span class="blood-btn-text">⚔ View My Arsenal</span>
+          <span class="blood-drip"></span><span class="blood-drip"></span><span class="blood-drip"></span>
+        </a>
+        <a href="https://imabusayed.github.io/abu-sayed-dev-portfolio/" class="blood-btn" target="_blank">
+          <span class="blood-btn-text">📜 Unroll Digital CV</span>
+          <span class="blood-drip"></span><span class="blood-drip"></span><span class="blood-drip"></span>
+        </a>
+        <a href="https://linkedin.com/in/imabusayed" class="blood-btn" target="_blank">
+          <span class="blood-btn-text">💼 Blood Pact (LinkedIn)</span>
+          <span class="blood-drip"></span><span class="blood-drip"></span><span class="blood-drip"></span>
+        </a>
+        <a href="https://abusayed.com.bd" class="blood-btn" target="_blank">
+          <span class="blood-btn-text">🌐 Enter Portfolio</span>
+          <span class="blood-drip"></span><span class="blood-drip"></span><span class="blood-drip"></span>
+        </a>
+        <a href="https://open.spotify.com/artist/4X96pEaQ6Qz3O1D2F7G8n0" class="blood-btn" target="_blank">
+          <span class="blood-btn-text">🎵 Listen on Spotify</span>
+          <span class="blood-drip"></span><span class="blood-drip"></span><span class="blood-drip"></span>
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
+
 <footer>
   <p class="footer-text">⚰ <span class="footer-name">Vampire Sayed</span> · Abu Sayed · Dhaka, Bangladesh 🇧🇩 · Built with blood, code & obsession ⚰</p>
 </footer>
@@ -3032,6 +3075,110 @@ footer::before {
   50% { opacity: 1; }
   80% { opacity: 0.8; }
   100% { height: var(--h, 80px); opacity: 0; }
+}
+
+/* THRONE MODAL STYLES */
+.throne-modal {
+  position: fixed; top: 0; left: 0; width: 100vw; height: 100vh;
+  z-index: 100000; display: flex; justify-content: center; align-items: center;
+  pointer-events: none; opacity: 0; transition: opacity 0.5s ease;
+  perspective: 1000px;
+}
+.throne-modal.open { pointer-events: auto; opacity: 1; }
+.throne-modal-backdrop {
+  position: absolute; inset: 0; background: rgba(5, 0, 0, 0.85); backdrop-filter: blur(8px);
+}
+.bat-container { position: absolute; inset: 0; overflow: hidden; pointer-events: none; z-index: 1; }
+.bat {
+  position: absolute; color: #000; font-size: 2.5rem; opacity: 0;
+  animation: flyBat linear forwards; filter: drop-shadow(0 0 8px rgba(220,20,60,0.6));
+}
+@keyframes flyBat {
+  0% { transform: translate(0, 0) scale(0.5) rotate(-20deg); opacity: 0; }
+  10% { opacity: 0.9; }
+  90% { opacity: 0.9; }
+  100% { transform: translate(-80vw, -80vh) scale(1.5) rotate(20deg); opacity: 0; }
+}
+
+.throne-modal-panel {
+  position: relative; z-index: 2; width: 95%; max-width: 1000px; max-height: 90vh;
+  background: linear-gradient(135deg, #0f0505 0%, #050000 100%);
+  border: 1px solid rgba(220, 20, 60, 0.4); border-radius: 16px;
+  box-shadow: 0 0 60px rgba(220, 20, 60, 0.2), inset 0 0 30px rgba(0,0,0,0.9);
+  display: flex; flex-direction: row; overflow: hidden;
+  transform: translateY(40px) scale(0.95); transition: transform 0.6s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+}
+@media (max-width: 800px) {
+  .throne-modal-panel { flex-direction: column; overflow-y: auto; max-height: 85vh; }
+}
+.throne-modal.open .throne-modal-panel { transform: translateY(0) scale(1); }
+
+.throne-close {
+  position: absolute; top: 15px; right: 15px; z-index: 10;
+  background: rgba(0,0,0,0.5); color: #fff; border: 1px solid rgba(220,20,60,0.5);
+  width: 40px; height: 40px; border-radius: 50%; font-size: 1.5rem; display: flex;
+  align-items: center; justify-content: center; cursor: pointer; transition: all 0.3s ease;
+}
+.throne-close:hover { background: rgba(220,20,60,0.3); transform: rotate(90deg); }
+
+.throne-image-wrapper { flex: 1.2; position: relative; overflow: hidden; }
+.throne-image {
+  width: 100%; height: 100%; object-fit: cover; object-position: center;
+  filter: contrast(1.1) brightness(0.85); transition: transform 5s ease;
+}
+.throne-modal-panel:hover .throne-image { transform: scale(1.08); }
+.throne-image-overlay {
+  position: absolute; inset: 0;
+  background: linear-gradient(to right, rgba(15,5,5,0) 50%, #0f0505 100%);
+}
+@media (max-width: 800px) {
+  .throne-image-wrapper { flex: auto; max-height: 35vh; }
+  .throne-image-overlay { background: linear-gradient(to bottom, rgba(15,5,5,0) 50%, #0f0505 100%); }
+}
+
+.throne-actions {
+  flex: 1; padding: 2.5rem; display: flex; flex-direction: column; justify-content: center;
+}
+.blood-text {
+  color: #ff3333; font-size: 2.2rem; margin-bottom: 0.5rem; text-align: center;
+  text-shadow: 0 0 15px rgba(220,20,60,0.6); font-family: 'Cinzel', serif; letter-spacing: 2px;
+}
+.throne-subtitle {
+  color: #a0a0a0; text-align: center; margin-bottom: 2rem; font-size: 0.95rem; font-style: italic;
+}
+.blood-buttons { display: flex; flex-direction: column; gap: 1.2rem; }
+.blood-btn {
+  position: relative; display: block; text-align: center; padding: 1rem;
+  background: linear-gradient(90deg, rgba(30,5,5,0.8), rgba(15,0,0,0.9));
+  border: 1px solid rgba(220, 20, 60, 0.4); color: #fff; text-decoration: none;
+  font-weight: 600; text-transform: uppercase; letter-spacing: 1px; font-size: 0.9rem;
+  border-radius: 8px; overflow: hidden; transition: all 0.3s ease;
+}
+.blood-btn::before {
+  content: ''; position: absolute; top: 0; left: -100%; width: 100%; height: 100%;
+  background: linear-gradient(90deg, transparent, rgba(220,20,60,0.2), transparent);
+  transition: all 0.5s ease;
+}
+.blood-btn:hover::before { left: 100%; }
+.blood-btn:hover {
+  border-color: #ff3333; box-shadow: 0 0 20px rgba(220, 20, 60, 0.5), inset 0 0 10px rgba(220, 20, 60, 0.2);
+  transform: translateY(-2px); color: #fff;
+}
+.blood-btn-text { position: relative; z-index: 2; text-shadow: 0 2px 4px #000; }
+
+.blood-drip {
+  position: absolute; top: -10px; width: 3px; background: #ff3333; border-radius: 0 0 4px 4px; opacity: 0;
+  box-shadow: 0 0 5px #ff3333;
+}
+.blood-btn:hover .blood-drip { animation: btnDrip 1.2s infinite ease-in; }
+.blood-drip:nth-child(2) { left: 15%; animation-delay: 0.2s; }
+.blood-drip:nth-child(3) { left: 50%; width: 4px; animation-delay: 0.6s; }
+.blood-drip:nth-child(4) { left: 85%; animation-delay: 0.4s; }
+
+@keyframes btnDrip {
+  0% { height: 0; opacity: 1; top: 0; }
+  50% { height: 25px; opacity: 1; top: 0; }
+  100% { height: 35px; opacity: 0; top: 100%; }
 }
 </style>
 
@@ -3460,6 +3607,66 @@ document.querySelectorAll('.bite-react').forEach(card => {
 console.log('%c⚰ VAMPIRE SAYED ⚰', 'color:#dc143c;font-size:24px;font-weight:bold;text-shadow:0 0 10px #8b0000;');
 console.log('%cAbu Sayed — Full Stack Developer · AI Engineer · The Red Viper of Code', 'color:#c9a87c;font-size:12px;');
 console.log('%c📧 hi@abusayed.com.bd | 🌐 abusayed.com.bd', 'color:#888;font-size:11px;');
+
+// THRONE MODAL LOGIC
+const throneModal = document.getElementById('throne-modal');
+let batInterval;
+
+function openThroneModal() {
+  if (!throneModal) return;
+  throneModal.classList.add('open');
+  throneModal.setAttribute('aria-hidden', 'false');
+  document.body.classList.add('modal-open');
+  spawnBats();
+  batInterval = setInterval(spawnBats, 3000); // continually spawn some bats
+}
+
+function closeThroneModal() {
+  if (!throneModal) return;
+  throneModal.classList.remove('open');
+  throneModal.setAttribute('aria-hidden', 'true');
+  document.body.classList.remove('modal-open');
+  clearInterval(batInterval);
+  setTimeout(() => {
+    document.getElementById('bat-container').innerHTML = '';
+  }, 500); // clear after fade out
+}
+
+function spawnBats() {
+  const container = document.getElementById('bat-container');
+  if(!container) return;
+  
+  const batCount = Math.floor(Math.random() * 5) + 3;
+  for(let i=0; i<batCount; i++) {
+    const bat = document.createElement('div');
+    bat.className = 'bat';
+    bat.innerHTML = '🦇';
+    
+    // start from right side or bottom right
+    const startX = 80 + Math.random() * 40; 
+    const startY = 60 + Math.random() * 40;
+    
+    bat.style.left = startX + 'vw';
+    bat.style.top = startY + 'vh';
+    bat.style.animationDuration = (Math.random() * 4 + 3) + 's';
+    bat.style.animationDelay = (Math.random() * 1) + 's';
+    
+    container.appendChild(bat);
+    
+    // cleanup
+    setTimeout(() => {
+      if(bat.parentNode === container) {
+        bat.remove();
+      }
+    }, 8000);
+  }
+}
+
+// Close on escape key
+document.addEventListener('keydown', e => {
+  if (e.key === 'Escape') closeThroneModal();
+});
+
 </script>
 
 </body>
