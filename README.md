@@ -71,14 +71,12 @@ Beyond code, I am the founder of Vibe Tool, a prolific **songwriter and recordin
 
 <div align="center">
 
-## 🎯 HIGH-INTENT SEO KEYWORDS (For Recruiters & Global Clients)
-
-*Optimized to help you find exactly who you're looking for*
+## For Recruiters & Global Clients
 
 </div>
 
 <details>
-<summary><b>🔍 Click to expand — Role & Hire-Intent Keywords</b></summary>
+<summary><b>🔍 Click to expand — to See Abu Sayed's Role & Hire-Intent</b></summary>
 <br/>
 
 **Hire a Developer:**
